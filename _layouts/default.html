@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% include meta.html %}
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" />
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+  <body>
+
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}{% link /documents/Dunkerley_CV.pdf %}" target="_blank">CV</a>
+            <a href="{{ site.baseurl }}/math">Writing & Talks</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+
+        </header>
+      </div>
+    </div>
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+	<!--
+          <nav>
+            <a href="https://github.com/garydunkerley">Github</a>
+            <a href="https://mathoverflow.net/users/130528/gary-d">MathOverflow</a>
+            <a href="https://math.stackexchange.com/users/739243/gary-d">Math Stack Exchange</a>
+            <a href="https://online-go.com/player/513180/">online-go</a>
+          </nav>
+	-->
+			  	  	<table class="center" width="TOTAL WIDTH" height="TOTAL HEIGHT" cellspacing="20" cellpadding="20" border="0" id="Table_01">
+
+
+		<tbody><tr><td><a href="https://github.com/garydunkerley" target="_blank"><img width="40" height="40" alt="" src="{{ site.baseurl }}/images/logos/github_logo.png" /></a></td>
+
+
+				<td><a href="https://mathoverflow.net/users/150528/gary-d?tab=profile" target="_blank"><img width="40" height="40" alt="" src="{{ site.baseurl }}/images/logos/mathOverflow.png" /></a></td>
+
+
+				<td><a href="https://math.stackexchange.com/users/739243/gary-d?tab=profile" target="_blank"><img width="40" height="40" alt="" src="{{ site.baseurl }}/images/logos/mathstackexchange.png" /></a></td>
+
+
+				<td><a href="https://online-go.com/player/513180/" target="_blank"><img width="40" height="40" alt="" src="{{ site.baseurl }}/images/logos/goban.png" /></a></td>
+
+
+
+	</tr>
+
+	</tbody>
+	</table>
+
+	</footer>
+      </div>
+    </div>
+  </body>
+</html>
