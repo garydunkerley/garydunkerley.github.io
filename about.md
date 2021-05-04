@@ -10,7 +10,7 @@ I have lots of non-academic interests, but the pandemic has largely restricted m
 
 ### Contact me
 
-firstnamelastname AT brandeis PERIOD edu
+firstnamelastname AT uga PERIOD edu
 
 My number has prime decomposition 11 * 23 * 36,126,161
 
