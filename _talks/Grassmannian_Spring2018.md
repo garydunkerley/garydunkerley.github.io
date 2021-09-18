@@ -8,6 +8,4 @@ permalink: /talks/Grassmannian_Spring2018
 location: "Hillsdale, Michigan"
 ---
 
-This talk summarized my findings from a research project with David Murphy, funded by the Laureates program in the Hillsdale College Department of Science. 
-
-We primarily focus on the analogy between classical linear algebra and tropicalized linear algebra leading up to an equivariant characterization of the tropical Grassmannian under the action of a "tropical general linear group." In particular, we discuss a combinatorial enumeration of "degenerate" orbits in the specific case GL_{tr}(2,4). 
+There is an interesting analogy that can be made between classical linear algebra in `$\mathbb{R}^n$` and tropicalized linear algebra over the real tropical semiring `$\mathbb{R}_{tr}^n$`. One depth marker for this analogy is the equational characterization of a tropical Grassmannian offered by Sturmfels and Speyer, one that admits an equivariant characterization of the tropical Grassmannian under the action of a "tropical general linear group." This talk discusses a particular breakdown in the analogy by offering a combinatorial enumeration of "degenerate" orbits in the specific case `$G_{tr}(2,4)$`. 
