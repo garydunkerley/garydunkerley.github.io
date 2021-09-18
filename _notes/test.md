@@ -1,6 +1,6 @@
 ---
 title: "An Equivariant Characterization of the Tropical Grassmannian G_{tr}(2,4)"
-collection: publications
+collection: notes
 permalink: /notes/test
 excerpt: 
 date: 2018-5-1
