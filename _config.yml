@@ -19,10 +19,10 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Gary Dunkerley"
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   bio              : "I am a graduate student at the University of Georgia"
   location         : "Athens"
-  employer         : "The University of Georgia"
+  employer         : #"The University of Georgia"
   pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
