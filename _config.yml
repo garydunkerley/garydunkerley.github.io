@@ -22,7 +22,7 @@ author:
   avatar           : "profile.png"
   bio              : "I am a graduate student at the University of Georgia"
   location         : "Athens"
-  employer         :
+  employer         : "The University of Georgia"
   pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -32,7 +32,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/garydunkerley"
   google_plus      :
   keybase          :
   instagram        :
