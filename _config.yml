@@ -13,7 +13,7 @@ name                     : &name "Gary Dunkerley"
 description              : &description "personal description"
 url                      : https://garydunkerley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "garydunkerley/garydunkerley.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 # Site Author
@@ -23,6 +23,7 @@ author:
   bio              : "I am a graduate student interested in low dimensional topology, dynamics, and information geometry."
   location         : "Athens"
   employer         : "The University of Georgia
+  pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
