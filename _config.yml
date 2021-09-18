@@ -20,10 +20,10 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary Dunkerley"
   avatar           : "profile.png"
-  bio              : "I am a graduate student interested in low dimensional topology, dynamics, and information geometry."
+  bio              : "I am a graduate student at the University of Georgia"
   location         : "Athens"
-  employer         : "The University of Georgia
-  pubmed           : #"some junk"
+  employer         :
+  pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
