@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "mathematician and educator"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
