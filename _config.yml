@@ -15,7 +15,6 @@ url                      : https://academicpages.github.io # the base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-	@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
@@ -30,7 +29,6 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-	@@ -96,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
