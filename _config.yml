@@ -20,10 +20,10 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary Dunkerley"
   avatar           : "profile_photo.jpg"
-  bio              : "\"I knew—but anyone could have sensed it in the magic of that serene breathing— that the period was governed by the square root of the length of the wire and by it, that number which, however irrational to sublunar minds, through a higher rationality binds the circumference and diameter of all possible circles.\" 
+  bio              : " \"I knew—but anyone could have sensed it in the magic of that serene breathing— that the period was governed by the square root of the length of the wire and by it, that number which, however irrational to sublunar minds, through a higher rationality binds the circumference and diameter of all possible circles.\" 
 <br />
 
-  \~ Umberto Eco"
+  ~ Umberto Eco"
   location         : "Athens, Georgia"
   employer         : #"The University of Georgia"
   pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
