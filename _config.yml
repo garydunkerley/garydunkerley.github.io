@@ -24,7 +24,7 @@ author:
 <br />
 
   \~ Umberto Eco"
-  location         : "Athens"
+  location         : "Athens, Georgia"
   employer         : #"The University of Georgia"
   pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -45,6 +45,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-4057-1292"
   pinterest        :
   soundcloud       :
+  mathstackexchange: "https://math.stackexchange.com/users/739243/gary-d" 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
