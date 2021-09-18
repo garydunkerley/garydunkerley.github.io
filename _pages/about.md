@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year graduate student at the University of Georgia. I completed my MA in mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/), where I studied knot invariants with [Daniel Ruberman](https://people.brandeis.edu/~ruberman/), and completed my B.Sc. in mathematics and literature at Hillsdale College.
+I am a first year graduate student at the University of Georgia where I am learning as much topology as I can. 
 
-I am fascinated by questions in the fields of [topology](https://en.wikipedia.org/wiki/Topology) and [dynamics](https://en.wikipedia.org/wiki/Dynamical_system).
+After earning my B.Sc. in mathematics and literature at Hillsdale College, I earned my masters at Brandeis University where I studied knot invariants under [Daniel Ruberman](https://people.brandeis.edu/~ruberman/).
 
-When not doing math, I like gardening, cooking, and spending time with my cat.
+When not doing math, I like gardening, cooking, and hagning out with Kimchi (my cat).
 
