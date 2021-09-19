@@ -12,5 +12,5 @@ I am a first year graduate student at the University of Georgia where I am learn
 
 After earning my B.Sc. in mathematics and literature at Hillsdale College, I earned my masters at Brandeis University where I studied knot invariants under [Daniel Ruberman](https://people.brandeis.edu/~ruberman/).
 
-When not doing math, I like gardening, cooking, and hagning out with Kimchi (my cat).
+When not doing math, I enjoy gardening, cooking, and hanging out with Kimchi (my cat).
 
