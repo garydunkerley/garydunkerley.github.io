@@ -1,7 +1,7 @@
 ---
 title: "In search of an equivariant characterization of the tropical Grassmannian `$G_{tr}(2,4)$`"
 collection: talks
-type: "Talk"
+type: "Presentation"
 venue: "Hillsdale College, Mathematics Department"
 date: "2018-4-15"
 permalink: /talks/Grassmannian_Spring2018
