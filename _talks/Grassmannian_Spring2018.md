@@ -1,5 +1,5 @@
 ---
-title: "In search of an equivariant of the tropical Grassmannian `$G_{tr}(2,4)$`"
+title: "In search of an equivariant characterization of the tropical Grassmannian `$G_{tr}(2,4)$`"
 collection: talks
 type: "Talk"
 venue: "Hillsdale College, Mathematics Department"
