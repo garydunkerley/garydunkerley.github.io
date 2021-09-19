@@ -3,7 +3,7 @@ title: "Topological quantum field theory and the Jones polynomial"
 collection: talks
 type: "Talk"
 venue: "Brandeis University, Graduate Student Seminar (Zoom)"
-date: "2020-12-10"
+date: "2020-12-3"
 permalink: /talks/Grassmannian_Fall2019
 location: "Waltham, Massachusetts"
 ---
