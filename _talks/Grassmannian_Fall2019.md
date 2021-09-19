@@ -3,7 +3,7 @@ title: "Introducing the Grassmannian"
 collection: talks
 type: "Talk"
 venue: "Brandeis University, Graduate Student Seminar"
-date: "2019-9-10"
+date: "2019-10-20"
 permalink: /talks/Grassmannian_Fall2019
 location: "Waltham, Massachusetts"
 ---
