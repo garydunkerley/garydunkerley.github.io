@@ -1,9 +1,9 @@
 ---
-title: "Primer on the Grassmannian"
+title: "Introducing the Grassmannian"
 collection: talks
 type: "Talk"
 venue: "Brandeis University, Graduate Student Seminar"
-date: "2018-4-15"
+date: "2019-9-10"
 permalink: /talks/Grassmannian_Fall2019
 location: "Waltham, Massachusetts"
 ---
