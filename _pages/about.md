@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year graduate student at the University of Georgia where I am learning as much topology as I can. 
+I am a first year graduate student at the University of Georgia where I intend to study topology. 
 
 After earning my B.Sc. in mathematics and literature at Hillsdale College, I earned my masters at Brandeis University where I studied knot invariants under [Daniel Ruberman](https://people.brandeis.edu/~ruberman/).
 
