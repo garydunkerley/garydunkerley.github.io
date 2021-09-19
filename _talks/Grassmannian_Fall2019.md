@@ -8,4 +8,4 @@ permalink: /talks/Grassmannian_Fall2019
 location: "Waltham, Massachusetts"
 ---
 
-This talk for the graduate student seminar defined and motivated the classical Grassmannian from algebraic geoemtry/
+This talk for the graduate student seminar defined and motivated the classical Grassmannian from algebraic geometry.
