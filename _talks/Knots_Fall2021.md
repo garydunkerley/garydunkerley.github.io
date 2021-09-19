@@ -9,4 +9,4 @@ location: "Waltham, Massachusetts"
 ---
 [Slides](http://academicpages.github.io/files/slides/KnotTheory.pdf)
 
-I gave this presentation at the first meeting for the knots and links reading course. The material covered corresponds roughly to the first few chapter's of Rolfsen's _Knots and Links_.
+I gave this presentation at the first meeting for the fall 2020 knots and links reading course at Brandeis University. The material covered corresponds roughly to the first few chapter's of Rolfsen's _Knots and Links_.
