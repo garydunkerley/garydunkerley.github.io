@@ -14,10 +14,7 @@ After earning my B.Sc. in mathematics and literature at Hillsdale College, I spe
 
 I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axioms:
 
-* Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
-
-* Everyone can have joyful, meaningful, and empowering mathematical experiences.
-
-* Mathematics is a powerful, malleable tool that can be shaped and used differently by communities to serve their needs.
-
-* Every student deserves to be treated with dignity and respect.
++ Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
++ Everyone can have joyful, meaningful, and empowering mathematical experiences.
++ Mathematics is a powerful, malleable tool that can be shaped and used differently by communities to serve their needs.
++ Every student deserves to be treated with dignity and respect.
