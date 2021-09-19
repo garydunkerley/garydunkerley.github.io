@@ -1,5 +1,5 @@
 ---
-title: "Grader and substitute lecturer for MATH 105A"
+title: "Grader and substitute lecturer for MATH 105A: Intro. to Real Analysis"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-grading
