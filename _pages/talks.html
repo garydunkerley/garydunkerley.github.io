@@ -1,16 +1,60 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<h2> 2020 </h2>
 
-{% endif %}
+<p>
+"Topological Quantum Field Theory and the Jones Polynomial" 
+</p>
+<p>
+Presented at the Graduate Student Seminar at Brandeis University
+(<a href="{{ site.baseurl }}{% link /files/slides/TQFT_slides.pdf %}">slides
+</a>
+)
+</p>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<p>
+"Primer for Knots and Links Reading Course"
+</p>
+<p>
+Presented at the first meeting of a reading course at Brandeis University
+(<a href="{{ site.baseurl }}{% link /files/slides/KnotTheory.pdf %}">slides
+</a>
+)
+
+</p>
+
+
+<h2> 2019 </h2>
+<p>
+"Introduction to the Grassmannian"
+</p>
+<p>
+Presented at the Graduate Student Seminar at Brandeis University
+</p>
+
+<h2> 2018 </h2>
+
+<p>
+"In Search of an Equivariant Characterization of the Tropical Grassmannian"
+</p>
+<p>
+Summer research presentation at the Hillsdale College mathematics department
+(<a href="{{ site.baseurl }}{% link /files/slides/tropical_presentation.pdf %}">slides
+</a>
+)
+
+</p>
+
+
+
+{% for post in site.notes reversed %}
+  {% include note.html %}
 {% endfor %}
+
+
