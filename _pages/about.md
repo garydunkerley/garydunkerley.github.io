@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-><sup><sub>"I knew—but anyone could have sensed it in the magic of that serene breathing— that the period was governed by the square root of the length of the wire and by it, that number which, however irrational... by a higher rationality binds the circumference and diameter of all possible circles.</sub></sup>\" 
->
+><sup><sub>"I knew—but anyone could have sensed it in the magic of that serene breathing— that the period was governed by the square root of the length of the wire and by it, that number which, however irrational... by a higher rationality binds the circumference and diameter of all possible circles.\"</sub></sup> 
+><sup><sub></sub></sup>
 > <sup><sub>\- Umberto Eco</sub></sup>
 
 
