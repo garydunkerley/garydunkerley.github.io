@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-><sup><sub>"I knew—but anyone could have sensed it in the magic of that serene breathing— that the period was governed by the square root of the length of the wire and by it, that number which, however irrational... by a higher rationality binds the circumference and diameter of all possible circles.\"</sub></sup> 
-><sup><sub></sub></sup>
-> <sup><sub>\- Umberto Eco</sub></sup>
-
-
-I am a first year graduate student at the University of Georgia. I intend to study the topology and geometry of 4-manifolds.
+I am a first year graduate student at the University of Georgia where I am studying the topology / geometry of 4-manifolds and investigating applications to real-world problems.
 
 I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axioms:
 
