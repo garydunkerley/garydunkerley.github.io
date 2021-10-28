@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year graduate student at the University of Georgia where I am studying 4-manifolds. 
 
 >"I knew—but anyone could have sensed it in the magic of that serene breathing— that the period was governed by the square root of the length of the wire and by it, that number which, however irrational... by a higher rationality binds the circumference and diameter of all possible circles.\" 
->>~ Umberto Eco
->
+> Umberto Eco
 
-I earned my B.Sc. in mathematics and literature at Hillsdale College under the guidance of [David Murphy](https://www.hillsdale.edu/faculty/david-murphy/). At the encouragment of [Jeffrey Hoffstein](https://www.brown.edu/academics/math/people/jeffrey-hoffstein), I earned my masters degree at Brandeis University where I studied knot invariants under [Daniel Ruberman](https://people.brandeis.edu/~ruberman/).
+I am a first year graduate student at the University of Georgia. I intend to study the topology and geometry of 4-manifolds.
 
 I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axioms:
 
