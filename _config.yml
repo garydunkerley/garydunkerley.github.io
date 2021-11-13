@@ -19,7 +19,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Gary Dunkerley"
-  avatar           : "profile_photo.jpg"
+  avatar           : "profile_picture.jpg"
   bio              : "he / him / his" 
   location         : "Athens, Georgia"
   employer         : #"The University of Georgia"
