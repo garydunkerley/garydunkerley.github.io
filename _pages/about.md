@@ -11,7 +11,7 @@ redirect_from:
 I am a first year PhD student at the University of Georgia. 
 My research interests include the topology / geometry of four manifolds, knots / knotted surfaces, and a handful of applications of these topics.
 
-If you are a struggling UGA student and want to know what resources are available to you, you may want to look at the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
+UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
 
 I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axioms:
 

@@ -1,6 +1,15 @@
+---
+permalink: /student_resources
+title: "Student Resources"
+excerpt: "Student Resources"
+author_profile: true
+---
+
+
+
 It is of fundamental importance that students feel respected and safe while pursuing their studies. If you are experiencing academic or personal issues, my door is always open; I am happy to listen as well as point you towards resources that may help. 
 
-- If you are in a class I am teaching or grading and would like to speak with me, please shoot me an email so we can coordinate a meeting at my office.
+- If you are in a class I am teaching or grading and would like to speak with me, please send me an email so we can coordinate a meeting at my office.
 
 - If you are a student at UGA experiencing academic or personal difficulties, do not hesitate to contact the [Office of Student Resources](https://online.uga.edu/student-resources). 
  
