@@ -7,7 +7,8 @@ author_profile: true
 
 
 All students deserve to feel supported, respected, and safe while pursuing their studies. If you are experiencing academic or personal issues, my door is always open; I'm happy to listen and to point you towards resources that may be helpful.  
-As an employee of the University of Georgia, in compliance with Title IX requirements, I am what's known as a "Mandatory Reporter." Should you report an instance where you or someone else experiences discrimination, harassment, or sexual misconduct; I am required to file a report to the UGA Equal Opportunity office.
+
+As an employee of the University of Georgia, in compliance with Title IX requirements, I am what's known as a "Mandatory Reporter." Should you report an instance where you or someone else experiences discrimination, harassment, or sexual misconduct; I am required to file a report to the [UGA Equal Opportunity office](https://eoo.uga.edu/).
 
 
 
@@ -17,7 +18,7 @@ As an employee of the University of Georgia, in compliance with Title IX require
 
 - If you are a student at UGA experiencing academic or personal difficulties, do not hesitate to contact the [Office of Student Resources](https://online.uga.edu/student-resources). 
  
-- If you or someone you know has experienced discrimination, harassment, or sexual misconduct, do not hesitate to file a complaint with the [UGA Equal Opportunity Office](https://eoo.uga.edu/). 
+- If you or someone you know has experienced discrimination, harassment, or sexual misconduct, do not hesitate to [file a complaint with the UGA Equal Opportunity Office](https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_6JtrhqGT32KWI9o). 
 
 - If you identify as LGBTQ+, you may be interested in the resources provided by the [Pride Center](https://pride.uga.edu/).
 
