@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary Dunkerley"
   avatar           : "profile_picture.jpg"
-  bio              : "he / him / his" 
+  bio              : "he / him" 
   location         : "Athens, Georgia"
   employer         : #"The University of Georgia"
   pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,10 +115,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
