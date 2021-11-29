@@ -22,10 +22,10 @@ author:
   avatar           : "profile_picture.jpg"
   bio              : "he / him" 
   location         : "Athens, Georgia"
-  employer         : #"The University of Georgia"
-  pubmed           : #"https://ww.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "The University of Georgia"
+  pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "firstnamelastname@uga.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
