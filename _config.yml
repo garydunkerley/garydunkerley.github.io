@@ -21,11 +21,11 @@ author:
   name             : "Gary Dunkerley"
   avatar           : "profile_picture.jpg"
   bio              : "he / him" 
-  location         : "Athens, Georgia"
-  employer         : "The University of Georgia"
+  location         : "The University of Georgia  Athens, Georgia"
+  employer         : 
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "firstnamelastname@uga.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
