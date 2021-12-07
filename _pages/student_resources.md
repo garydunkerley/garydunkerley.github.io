@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-All students deserve to feel supported, respected, and safe while pursuing their studies. My door is always open; I'm happy to listen, to offer whatever support I can, and to point you towards resources that may be helpful.  
+All students deserve to feel supported, respected, and safe while pursuing their studies. My door is always open; I'm happy to listen and support you.  
 
-In compliance with UGA policy, I am what's known as a "Responsible Employee." Should you disclose an instance where you or someone else experiences discrimination, harassment, or sexual misconduct; I am required to file a report to the [UGA Equal Opportunity Office](https://eoo.uga.edu/).
+In compliance with UGA policy, I am what's known as a "Responsible Employee." Should you disclose an instance where you or someone else experiences discrimination, harassment, or sexual misconduct, I am required to file a report to the [UGA Equal Opportunity Office](https://eoo.uga.edu/).
 
 - If you are in a class I am teaching or grading and would like to speak with me, feel free to come to my office during scheduled office hours. Feel free to shoot me an email if those hours don't work for you so we can work out an alternative.
 
