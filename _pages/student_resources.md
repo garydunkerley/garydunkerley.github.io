@@ -12,7 +12,7 @@ In compliance with UGA policy, I am what's known as a "Responsible Employee." Sh
 
 - If you're in a class I am teaching or grading and would like to speak with me, please come to my scheduled office hours. If those times don't work for you, shoot me an email so we can work out an alternative.
 
-- If you're interested in doing independent work in advanced mathematics, you should check out the UGA math department's [directed reading program](https://www.math.uga.edu/directed-reading-program)
+- If you're interested in doing independent work in advanced mathematics, you should check out the UGA math department's [directed reading program](https://www.math.uga.edu/directed-reading-program).
 
 - If you are a UGA student experiencing academic or personal difficulties, you should check out the [Office of Student Resources](https://online.uga.edu/student-resources). 
  
