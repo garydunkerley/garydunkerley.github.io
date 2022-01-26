@@ -21,8 +21,8 @@ author:
   name             : "Gary Dunkerley"
   avatar           : "profile_picture.jpg"
   bio              : "he / him" 
-  location         : "Boyd Graduate Researh Center, 434J"
-  employer         : "The University of Georgia"
+  location         : "Boyd Graduate Research Center, 434J <br> The University of Georgia"
+  employer         : #The University of Georgia"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : firstnamelastname at uga dot edu
