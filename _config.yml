@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Gary Dunkerley"
 title_separator          : "-"
-name                     : &name "Gary Dunkerley"
-description              : &description "Gary Dunkerley"
+name                     : &name "Gary D. Dunkerley"
+description              : &description "Gary D. Dunkerley"
 url                      : https://garydunkerley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -18,14 +18,14 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 
 # Site Author
 author:
-  name             : "Gary Dunkerley"
+  name             : "Gary D. Dunkerley"
   avatar           : "profile_picture_brown.jpg"
-  bio              : "he 𒄃 him" 
+  bio              : "he 𒄃 him <br> firstnamelastname at uga dot edu" 
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : firstnamelastname at uga dot edu
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
