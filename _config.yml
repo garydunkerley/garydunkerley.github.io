@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "profile_picture_brown.jpg"
-  bio              : "he 𒄃 him <br> firstnamelastname(at)uga(dot)edu" 
+  bio              : "he 𒄃 him <br> Mathematician in training<br> firstlast(at)uga(dot)edu" 
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
