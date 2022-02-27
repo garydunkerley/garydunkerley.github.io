@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the University of Georgia. 
+I'm a first year PhD student at the University of Georgia. 
 My research interests include the topology and geometry of manifolds, knotted surfaces, and a handful of applications of these topics.
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
