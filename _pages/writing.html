@@ -1,0 +1,43 @@
+---
+layout: archive
+title: "Writing"
+permalink: /writing/
+author_profile: true
+---
+<h2>Notes</h2>
+<p>
+In progress: Hodge decomposition and boundary-value problems from the perspective of Sobelev spaces
+</p>
+
+<p>
+<a href="{{ site.baseurl }}{% link /files/notes/notes_on_knot_theory.pdf %}">Notes on knot theory and related topics</a>
+</p>
+
+<p>
+<a href="{{ site.baseurl }}{% link files/notes/bernstein-sato.pdf %}">Notes on Bernstein-Sato polynomials</a>
+</p>
+
+<p>
+<a href="{{ site.baseurl }}{% link /files/notes/spectral.pdf %}">Notes on spectral sequences</a>
+</p>
+
+<p>
+<a href="{{ site.baseurl }}{% link /files/notes/siegel_zero.pdf %}">Notes on Siegel zeros of Dedekind zeta functions</a> 
+</p>
+
+<h2> Miscellania </h2>
+<p>
+<a href="{{ site.baseurl }}{% link /files/notes/ELK.pdf %}">Eliciting latent knowledge: an epistemically honest "SmartVault"</a> 
+</p>
+My submission to the <a href="https://www.alignmentforum.org/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals">2022 ELK proposal competition</a> hosted by Paul Christiano and Mark Xu of the AI Alignment forum.  
+<p>
+<a href="{{ site.baseurl }}{% link /files/notes/tropical_research.pdf %}">Undergraduate Research Project on tropical Grassmannians</a> 
+</p>
+
+
+
+
+{% for post in site.notes reversed %}
+  {% include note.html %}
+{% endfor %}
+
