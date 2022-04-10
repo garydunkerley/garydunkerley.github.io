@@ -18,5 +18,7 @@ main:
   - title: "cv"
     url: /files/Dunkerley_CV.pdf
     
+  - title: "links"
+    url: /links/
     # - title: "Guide"
     # url: /markdown/
