@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<font size = "2">
 
 I'm a first year PhD student at the University of Georgia. 
 My research interests include the geometry of smooth manifolds, knots, and a handful of related topics and applications.
