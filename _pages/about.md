@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size = "2">
 
 I'm a first year PhD student at the University of Georgia. 
 My research interests include the geometry of smooth manifolds, knots, and a handful of related topics and applications.
@@ -21,6 +20,6 @@ I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axi
 + Mathematics is a powerful, malleable tool that can be shaped and used differently by communities to serve their needs.
 + Every student deserves to be treated with dignity and respect.
 
-<img src="{{ site.baseurl }}{% link /images/seifert.png %}" style="width:500px;height:600px;">
+<img src="{{ site.baseurl }}{% link /images/seifert.png %}" style="width:1200px;height:830px;">
 
 
