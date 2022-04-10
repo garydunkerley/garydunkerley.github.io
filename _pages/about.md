@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a first year PhD student at the University of Georgia. 
-My research interests include the topology and geometry of manifolds, knotted surfaces, and a handful of applications of these topics.
+My research interests include the geometry of smooth manifolds, knots, and a handful of related topics and applications.
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
 
@@ -20,6 +20,6 @@ I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axi
 + Mathematics is a powerful, malleable tool that can be shaped and used differently by communities to serve their needs.
 + Every student deserves to be treated with dignity and respect.
 
-
+<img src="{{ site.baseurl }}{seifert.png}" style="width:500px;height:600px;">
 
 
