@@ -18,7 +18,10 @@ In compliance with UGA policy, I am what's known as a "Responsible Employee." Sh
  
 - If you or someone you know has experienced discrimination, harassment, or sexual misconduct, please [file a complaint with the UGA Equal Opportunity Office](https://ugeorgia.ca1.qualtrics.com/jfe/form/SV_6JtrhqGT32KWI9o). 
 
+
 - If you identify as LGBTQ+, you may be interested in the resources provided by the [Pride Center](https://pride.uga.edu/).
+
+- If you're a woman and interested in mathematics, check out the [Association for Women in Mathematics](https://awm-math.org/).
 
 - If you are interested in LGBTQ+ representation in mathematics, you may be interested in [Spectra](http://lgbtmath.org/index.html).
 
