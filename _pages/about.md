@@ -20,6 +20,6 @@ I support and believe in [Federico Ardila's](http://math.sfsu.edu/federico/) axi
 + Mathematics is a powerful, malleable tool that can be shaped and used differently by communities to serve their needs.
 + Every student deserves to be treated with dignity and respect.
 
-<img src="{{ site.baseurl }}{% link /images/seifert.png %}" style="width:1200px;height:830px;">
+<img src="{{ site.baseurl }}{% link /images/seifert.png %}" style="width:600px;height:415px;">
 
 
