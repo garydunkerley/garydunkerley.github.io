@@ -18,8 +18,9 @@ author_profile: true
 - [Datafruits](https://www.datafruits.fm/) - an eclectic internet radio station
 - [Cara Dunkerley's site](https://caradunkerley.com/) - my sibling makes art, check it out!
 
+- [SMBC](https://www.smbc-comics.com/) - industrial-grade nerd humor
+- 
 - [Frinkiac](https://frinkiac.com/) - trades Simpsons quotes for relevant screencaps
-- [The most important website ever](https://www.wikipedia.org/)
-- [The second-most important website ever](https://bongo.cat/)
-- [zombocom](https://zombo.com/) - "Welcome to zombo com. This is zombo com."
+- [The most important website ever](https://bongo.cat/)
+- [The second-most important website ever](https://zombo.com/) 
 
