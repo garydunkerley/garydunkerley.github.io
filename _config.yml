@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "profile_picture_brown.jpg"
-  bio              : "he 𒄃 him <br> mathematician in training<br> firstlast at uga dot edu" 
+  bio              : "he 𒄃 him <br> firstlast at uga dot edu" 
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
@@ -191,7 +191,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
