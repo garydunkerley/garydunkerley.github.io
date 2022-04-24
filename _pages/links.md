@@ -11,8 +11,9 @@ author_profile: true
 - [SeifertView](https://www.win.tue.nl/~vanwijk/seifertview/) - Jack van Wijk's software for visualizing Seifert surfaces
 - [q.uiver](https://q.uiver.app/) - an in-browser app for making commutative diagrams, exports to LaTeX!
 - [Detexify](http://detexify.kirelabs.org/classify.html) - trades hand-drawn symbols for LaTeX commands
-- [Simulations of strange attractors](http://www.stevejtrettel.site/code/strangeAttractor.html) - Steve Trettel made an amazing simulator for some strange attractors
-- [thispersondoesnotexist](https://thispersondoesnotexist.com/) - a GAN that generates images of people who, well, don't exist
+- [Simulations of strange attractors](http://www.stevejtrettel.site/code/strangeAttractor.html) - Steve Trettel's amazing strange attractor simulator
+- [Ray-traced simulations of the eight Thurston geometries](http://www.3-dimensional.space/) - a beautiful project by Remi Coulon, Sabetta Matsumoto, Henry Segerman, and Steve Trettel
+- [thispersondoesnotexist](https://thispersondoesnotexist.com/) - a GAN that generates images of non-existent people
 
 - [Cara Dunkerley's site](https://caradunkerley.com/) - my sibling makes art, check it out!
 
