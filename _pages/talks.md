@@ -13,6 +13,3 @@ author_profile: true
 |      	| _Primer for knots and links reading course_ ([slides]({{ site.baseurl }}/files/slides/KnotTheory.pdf)) | Reading Course
 | **2019** 	| _Introduction to the Grassmannian_ | Brandeis GSS
 | **2018**	| _In search of an equivariant characterization of the tropical Grassmannian_ ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
-
-Older slides were made with the Beamer package for LaTeX. Newer slides were made with Goodnotes and compressed to reduce bloatedness (Warning: they're still large!).
-
