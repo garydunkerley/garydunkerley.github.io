@@ -17,4 +17,3 @@ author_profile: true
 
 - [Cara Dunkerley's site](https://caradunkerley.com/) - my sibling makes art, check it out!
 
-$$\sum\limits_{n=1}^{\infty} \gamma_n x^n$$
