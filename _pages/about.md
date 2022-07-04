@@ -15,6 +15,7 @@ I'm a second-year graduate student at UGA who's interested in the geometry of sm
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
 ## talks & presentations 
+
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| *On the analogy between knots and primes* ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
@@ -22,6 +23,7 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 |      	| _Primer for knots and links reading course_ ([slides]({{ site.baseurl }}/files/slides/KnotTheory.pdf)) | Reading Course
 | **2019** 	| *Introduction to the Grassmannian* | Brandeis GSS
 | **2018**	| *In search of an equivariant characterization of the tropical Grassmannian* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
+
 ## notes
 Please shoot me an email if you find any errors in these!
 
