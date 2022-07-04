@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: "About me"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots and knotted surfaces, Floer theory, TQFTs, and a handful of potential applications. 
@@ -15,6 +12,7 @@ In my spare time, I like to hike, cycle, and forage my way through Athens, GA. I
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
 ## talks 
+
 | **2022** 	| _Spin & spinᶜ: a creature double-feature_ ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| _Cutting out knots_ ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| _On the analogy between knots and primes_ ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
@@ -22,6 +20,7 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 |      	| _Primer for knots and links reading course_ ([slides]({{ site.baseurl }}/files/slides/KnotTheory.pdf)) | Reading Course
 | **2019** 	| _Introduction to the Grassmannian_ | Brandeis GSS
 | **2018**	| _In search of an equivariant characterization of the tropical Grassmannian_ ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
+
 
 ## notes & miscellaneous
 Notes and math-related writing. Please shoot me an email if you find any errors!
