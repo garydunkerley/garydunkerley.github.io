@@ -8,13 +8,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## about me
+## A little about me...
 
 I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots, and a handful of potential applications. Ialso like to hike, cycle, forage, and take pretty photographs.   
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
-## talks & presentations 
+## Past talks & presentations 
 
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
@@ -24,16 +24,16 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 | **2019** 	| *Introduction to the Grassmannian* | Brandeis GSS
 | **2018**	| *In search of an equivariant characterization of the tropical Grassmannian* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
 
-## notes
+## Notes
 Please shoot me an email if you find any errors in these!
 
-+ Contact structures and the Pontryagin construction (in progress)
-+ Knot theory and related topics [pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf)
-+ Bernstein-Sato polynomials [pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf)
-+ The very basics of spectral sequences [pdf]({{ site.baseurl }}/files/notes/spectral.pdf)
-+ Siegel zeros of Dedekind zeta functions [pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf) 
+| *Contact structures and the Pontryagin construction* | **In progress**
+| *Knot theory and related topics* | ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
+| *Bernstein-Sato polynomials* | ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
+| *The very basics of spectral sequences* | ([pdf]({{ site.baseurl }}/files/notes/spectral.pdf))
+| *Siegel zeros of Dedekind zeta functions* | ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
 
-## miscellanea
+## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* [pdf]({{ site.baseurl }}/files/notes/ELK.pdf)
 	* This proposal considers the following problem: given a hypothetical intelligent algorithm equipped with a reporter that is capable of answering questions posed by a human, how do you discourage it from misrepresenting the algorithm's knowledge even when the human would be none the wiser? We consider a (very sketchy) strategy for accurate knowledge representation and how one might encourage an "honest" reporter with an adversarial architecture.   
 + Investigating sequential *n*-player duel games [pdf]({{ site.baseurl }}/files/notes/duels.pdf)
