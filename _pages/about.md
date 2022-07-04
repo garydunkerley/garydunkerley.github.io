@@ -1,9 +1,15 @@
 ---
-layout: archive
-title: ""
 permalink: /
+title: ""
+layout: archive
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
+
 ## about me
 
 I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots and knotted surfaces, Floer theory, TQFTs, and a handful of potential applications. 
