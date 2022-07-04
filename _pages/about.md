@@ -17,7 +17,7 @@ I'm a second-year at UGA who's passionate about mathematics, low-dimensional top
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
 
-## Selected talks 
+## Selected talks & presentations 
 Here are some talks I have notes or slides for. Warning: recent slides were made with Goodnotes and so are quite large.
 
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
