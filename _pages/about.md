@@ -39,8 +39,8 @@ These are notes I typed up to facilitate my understanding on various topics. If 
 |	| *Siegel zeros of Dedekind zeta functions* ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
 
 ## Miscellanea
-+ Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
-	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions posed by a human. How do you discourage the reporter from misrepresenting the algorithms's knowledge even when the human would be fooled? We adapt the Alignment Research Center's "SmartVault" example and sketch a strategy for accurate knowledge representation and how one might encourage "honest" reporting via an adversarial architecture.   
++ Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
+	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions posed by a human. How do you encourage the reporter to accurately convey the algorithms's knowledge even when the human would be fooled? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage "honest" reporting via an adversarial architecture.   
 + Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
 	* A small personal project I took on after learning some undergraduate game theory.
 + Undergraduate research project on tropical grassmannians ([pdf]({{site.baseurl }}/files/notes/tropical_research.pdf))
