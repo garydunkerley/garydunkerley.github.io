@@ -40,7 +40,7 @@ These are notes I typed up to facilitate my understanding on various topics. If 
 
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
-	* This proposal considers the following problem: given a hypothetical intelligent algorithm equipped with a reporter that is capable of answering questions posed by a human, how do you discourage it from misrepresenting the algorithm's knowledge even when the human would be none the wiser? We consider a (very sketchy) strategy for accurate knowledge representation and how one might encourage an "honest" reporter with an adversarial architecture.   
+	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions posed by a human. How do you discourage the reporter from misrepresenting the algorithms's knowledge even when the human would be fooled? We consider a (very sketchy) strategy for accurate knowledge representation and how one might encourage an "honest" reporter with an adversarial architecture.   
 + Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
 	* A small personal project I took on after learning some undergraduate game theory.
 + Undergraduate research project on tropical grassmannians ([pdf]({{site.baseurl }}/files/notes/tropical_research.pdf))
