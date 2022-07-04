@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Oyster Peak]({{ base.url}}/images/oyster_peak_2022.jpg "Oyster Peak, Bellingham, WA")
+
 ## A little about me...
 
 I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots, and a handful of potential applications. 
@@ -15,7 +17,6 @@ I also like to hike, cycle, forage, cook, and take photographs.
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
-![Oyster Peak]({{ base.url}}/images/oyster_peak_2022.jpg "Oyster Peak, Bellingham, WA")
 
 ## Past talks 
 Slides for talks I've given. Warning: new ones made with Goodnotes are very large.
