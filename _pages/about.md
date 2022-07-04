@@ -26,14 +26,13 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 | **2018**	| *In search of an equivariant characterization of the tropical Grassmannian* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
 
 ## Notes
+These are notes I typed up to facilitate my understanding on various topics. If you find any errors, please let me know!
 
-| *Contact structures and the Pontryagin construction* | **In progress**
-| *Knot theory and related topics* | ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
-| *Bernstein-Sato polynomials* | ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
-| *The very basics of spectral sequences* | ([pdf]({{ site.baseurl }}/files/notes/spectral.pdf))
-| *Siegel zeros of Dedekind zeta functions* | ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
-
-Please shoot me an email if you find any errors in these!
+| **In progress** | *Bundles, Contact structures, and the Pontryagin construction* 
+| **2021** | *Knot theory and related topics* | ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
+| **2020** | *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
+|	| *The very basics of spectral sequences* ([pdf]({{ site.baseurl }}/files/notes/spectral.pdf))
+| **2019** | *Siegel zeros of Dedekind zeta functions* ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
 
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* [pdf]({{ site.baseurl }}/files/notes/ELK.pdf)
