@@ -16,12 +16,9 @@ I'm a second-year graduate student at UGA who's interested in the geometry of sm
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
-## talks 
+## talks & presentations 
 
-| **2022** 	| _Spin & spinᶜ: a creature double-feature_ ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
-|      	| _Cutting out knots_ ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
-| **2021** 	| _On the analogy between knots and primes_ ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
-| **2020** 	| _Topological quantum field theory and the Jones polynomial_ ([slides]({{ site.baseurl }}/files/slides/TQFT_slides.pdf)) | Brandeis GSS
+
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| *On the analogy between knots and primes* ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
