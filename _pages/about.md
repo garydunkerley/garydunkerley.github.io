@@ -19,7 +19,7 @@ UGA students may be interested in the [student resources](https://garydunkerley.
  
 
 ## Past talks 
-Slides for talks I've given. Warning: new ones made with Goodnotes are very large.
+Slides for talks I've given. Warning: recent slides were made with Goodnotes and so are quite large.
 
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
@@ -39,9 +39,9 @@ These are notes I typed up to facilitate my understanding on various topics. If 
 |	| *Siegel zeros of Dedekind zeta functions* ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
 
 ## Miscellanea
-+ Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* [pdf]({{ site.baseurl }}/files/notes/ELK.pdf)
++ Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
 	* This proposal considers the following problem: given a hypothetical intelligent algorithm equipped with a reporter that is capable of answering questions posed by a human, how do you discourage it from misrepresenting the algorithm's knowledge even when the human would be none the wiser? We consider a (very sketchy) strategy for accurate knowledge representation and how one might encourage an "honest" reporter with an adversarial architecture.   
-+ Investigating sequential *n*-player duel games [pdf]({{ site.baseurl }}/files/notes/duels.pdf)
++ Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
 	* A small personal project I took on after learning some undergraduate game theory.
-+ Undergraduate research project on tropical grassmannians [pdf]({{site.baseurl }}/files/notes/tropical_research.pdf)
++ Undergraduate research project on tropical grassmannians ([pdf]({{site.baseurl }}/files/notes/tropical_research.pdf))
 
