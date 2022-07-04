@@ -16,6 +16,7 @@ I also like to hike, cycle, forage, cook, and take photographs.
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
 ## Past talks 
+Slides for talks I've given. Warning: new ones made with Goodnotes are very large.
 
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
