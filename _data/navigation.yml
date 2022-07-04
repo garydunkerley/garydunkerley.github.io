@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "writing"
-    url: /writing/
 
   - title: "talks"
     url: /talks/    
@@ -15,10 +13,11 @@ main:
     # - title: "Blog Posts"
     # url: /year-archive/
     
-  - title: "cv"
-    url: /files/Dunkerley_CV.pdf
-    
   - title: "links"
     url: /links/
+        
+  - title: "cv"
+    url: /files/Dunkerley_CV.pdf
+
     # - title: "Guide"
     # url: /markdown/
