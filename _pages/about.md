@@ -34,7 +34,7 @@ These are notes I typed up to facilitate my understanding on various topics. If 
 | **2021** | *Knot theory and related topics* ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
 | **2020** | *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
 |	| *The very basics of spectral sequences* ([pdf]({{ site.baseurl }}/files/notes/spectral.pdf))
-|	| *Siegel zeros of Dedekind zeta functions* ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
+| **2019**	| *Siegel zeros of Dedekind zeta functions* ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
 
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
