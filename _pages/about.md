@@ -35,7 +35,7 @@ Please shoot me an email if you find any errors in these!
 
 ## miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* [pdf]({{ site.baseurl }}/files/notes/ELK.pdf)
-	* This proposal offers a (very sketchy) strategy for discouraging hypothetical intelligent algorithms from misrepresenting their knowledge or beliefs to a human inquisitor even when they could get away with doing so. We consider the non-trivial issue of mapping the trained algorithm's knowledge representation to that of a human inquisitor and how one might encourage honesty with an adversarial architecture.   
+	* This proposal considers the following problem: given a hypothetical intelligent algorithm equipped with a reporter that is capable of answering questions posed by a human, how do you discourage it from misrepresenting the algorithm's knowledge even when the human would be none the wiser? We consider a (very sketchy) strategy for accurate knowledge representation and how one might encourage an "honest" reporter with an adversarial architecture.   
 + Investigating sequential *n*-player duel games [pdf]({{ site.baseurl }}/files/notes/duels.pdf)
 	* A small personal project I took on after learning some undergraduate game theory.
 + Undergraduate research project on tropical grassmannians [pdf]({{site.baseurl }}/files/notes/tropical_research.pdf)
