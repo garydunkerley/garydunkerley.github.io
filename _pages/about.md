@@ -12,8 +12,7 @@ redirect_from:
 
 ## A little about me...
 
-I'm a second-year at UGA who's interested in low-dimensional topology, particularly contact and symplectic geometry on 3 & 4-manifolds, knots & knotted surfaces, categorified invariants, and applications of these topics. 
-I also like to hike, cycle, and forage in my spare time.    
+I'm a second-year at UGA who's interested in low-dimensional topology and geometry. I'm passionateabout environmental & dietary ethics and enjoy spending time outdoors (hiking, cycling, & foraging especially).
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
@@ -40,8 +39,8 @@ These are notes I typed up to facilitate my understanding on various topics. If 
 
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
-	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions about the algorithms knowledge and decision making posed by a human. How do you encourage the reporter to accurately convey the algorithm's knowledge even when the human would be fooled? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage "honest" reporting via an adversarial architecture.   
+	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
 + Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
-	* A small personal project I took on after learning some undergraduate game theory.
+	* A small, fun project about basic game theory.
 + Undergraduate research project on tropical grassmannians ([pdf]({{site.baseurl }}/files/notes/tropical_research.pdf))
 
