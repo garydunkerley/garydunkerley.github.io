@@ -5,6 +5,7 @@ excerpt: "links"
 author_profile: true
 ---
 
+- [Signal](https://signal.org/#signal) - a beautiful, easy-to-use, open-source messaging app built with security in mind, because privacy is a human right
 - [OEIS](https://oeis.org/) - The Online Encyclopedia of Integer Sequences
 - [KnotInfo](https://knotinfo.math.indiana.edu/) - an excellent resource for data on knots up to twelve crossings
 - [SnapPy](https://snappy.math.uic.edu/) - a program for studying the geometry of hyperbolic manifolds courtesy of Marc Culler, Nathan Dunfield, and Matthias Goerner
