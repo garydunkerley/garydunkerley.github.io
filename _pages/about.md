@@ -15,7 +15,7 @@ I also like to hike, cycle, forage, cook, and take photographs.
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
-## Past talks & presentations 
+## Past talks 
 
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
@@ -26,13 +26,14 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 | **2018**	| *In search of an equivariant characterization of the tropical Grassmannian* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
 
 ## Notes
-Please shoot me an email if you find any errors in these!
 
 | *Contact structures and the Pontryagin construction* | **In progress**
 | *Knot theory and related topics* | ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
 | *Bernstein-Sato polynomials* | ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
 | *The very basics of spectral sequences* | ([pdf]({{ site.baseurl }}/files/notes/spectral.pdf))
 | *Siegel zeros of Dedekind zeta functions* | ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
+
+Please shoot me an email if you find any errors in these!
 
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge" Proposal Contest* [pdf]({{ site.baseurl }}/files/notes/ELK.pdf)
