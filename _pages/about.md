@@ -10,7 +10,8 @@ redirect_from:
 ---
 ## A little about me...
 
-I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots, and a handful of potential applications. Ialso like to hike, cycle, forage, and take pretty photographs.   
+I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots, and a handful of potential applications. 
+I also like to hike, cycle, forage, cook, and take photographs.   
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
