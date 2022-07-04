@@ -30,7 +30,7 @@ Slides for talks I've given. Warning: new ones made with Goodnotes are very larg
 These are notes I typed up to facilitate my understanding on various topics. If you find any errors, please let me know!
 
 | **In progress** | *Bundles, Contact structures, and the Pontryagin construction* 
-| **2021** | *Knot theory and related topics* | ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
+| **2021** | *Knot theory and related topics* ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
 | **2020** | *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
 |	| *The very basics of spectral sequences* ([pdf]({{ site.baseurl }}/files/notes/spectral.pdf))
 | **2019** | *Siegel zeros of Dedekind zeta functions* ([pdf]({{ site.baseurl }}/files/notes/siegel_zero.pdf)) 
