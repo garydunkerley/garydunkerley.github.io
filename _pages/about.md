@@ -12,9 +12,7 @@ redirect_from:
 
 ## about me
 
-I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots and knotted surfaces, Floer theory, TQFTs, and a handful of potential applications. 
-
-In my spare time, I like to hike, cycle, and forage my way through Athens, GA. I care a lot about dietary and environmental ethics.   
+I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots, and a handful of potential applications. In my spare time, I like to hike, cycle, and forage my way through Athens, GA. I care a lot about dietary and environmental ethics.   
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
@@ -24,12 +22,10 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 |      	| _Cutting out knots_ ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| _On the analogy between knots and primes_ ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
 | **2020** 	| _Topological quantum field theory and the Jones polynomial_ ([slides]({{ site.baseurl }}/files/slides/TQFT_slides.pdf)) | Brandeis GSS
-=======
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| *On the analogy between knots and primes* ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
 | **2020** 	| *Topological quantum field theory and the Jones polynomial* ([slides]({{ site.baseurl }}/files/slides/TQFT_slides.pdf)) | Brandeis GSS
->>>>>>> ecbda506f92ae0065413e9d0f3f1253a27977821
 |      	| _Primer for knots and links reading course_ ([slides]({{ site.baseurl }}/files/slides/KnotTheory.pdf)) | Reading Course
 | **2019** 	| *Introduction to the Grassmannian* | Brandeis GSS
 | **2018**	| *In search of an equivariant characterization of the tropical Grassmannian* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
