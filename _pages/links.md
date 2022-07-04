@@ -1,6 +1,6 @@
 ---
 permalink: /links/
-title: "links"
+title: ""
 excerpt: "links"
 author_profile: true
 ---
