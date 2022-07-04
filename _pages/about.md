@@ -4,6 +4,7 @@ title: ""
 permalink: /
 author_profile: true
 ---
+## about me
 
 I'm a second-year graduate student at UGA who's interested in the geometry of smooth 3- & 4-manifolds, knots and knotted surfaces, Floer theory, TQFTs, and a handful of potential applications. 
 
@@ -12,7 +13,6 @@ In my spare time, I like to hike, cycle, and forage my way through Athens, GA. I
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
 ## talks 
-<<<<<<< HEAD
 
 | **2022** 	| _Spin & spinᶜ: a creature double-feature_ ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| _Cutting out knots_ ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
