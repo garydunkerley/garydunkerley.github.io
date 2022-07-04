@@ -12,7 +12,7 @@ redirect_from:
 
 ## A little about me...
 
-I'm a second-year at UGA who's interested in low-dimensional topology and geometry. I'm passionateabout environmental & dietary ethics and enjoy spending time outdoors (hiking, cycling, & foraging especially).
+I'm a second-year at UGA who's interested in low-dimensional topology and geometry. I'm passionate about environmental & dietary ethics and enjoy spending time outdoors (hiking, cycling, & foraging especially).
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
