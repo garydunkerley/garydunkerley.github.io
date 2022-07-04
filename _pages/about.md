@@ -12,7 +12,7 @@ redirect_from:
 
 ## A little about me...
 
-I'm a second-year at UGA who's passionate about mathematics, low-dimensional topology and geometry especially. When not puzzling over math in a highly-caffeinated fuguelike state, I'm often found in my kitchen making something with veggies, somewhere in the woods, or anywhere there are cats. 
+I'm a second-year at UGA who's passionate about mathematics, low-dimensional topology and geometry especially. When not puzzling over math in a caffeine-induced fuguelike state, I'm often found in my kitchen, somewhere in the woods, or anywhere there are cats. 
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
