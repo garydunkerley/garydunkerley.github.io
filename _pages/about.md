@@ -13,7 +13,7 @@ redirect_from:
 ## A little about me...
 
 I'm a second-year at UGA who's interested in low-dimensional topology, particularly contact and symplectic geometry on 3 & 4-manifolds, knots & knotted surfaces, categorified invariants, and applications of these topics. 
-I also like to hike, cycle, forage, cook, draw, and take photographs.   
+I also like to hike, cycle, and forage in my spare time.    
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
