@@ -14,6 +14,7 @@ author_profile: true
 - [Detexify](http://detexify.kirelabs.org/classify.html) - trades hand-drawn symbols for LaTeX commands
 - [Simulations of strange attractors](http://www.stevejtrettel.site/code/strangeAttractor.html) - Steve Trettel's amazing strange attractor simulator
 - [Ray-traced simulations of the eight Thurston geometries](http://www.3-dimensional.space/) - a beautiful project by Remi Coulon, Sabetta Matsumoto, Henry Segerman, and Steve Trettel
+- [mLab](https://cemulate.github.io/the-mlab/) - the official parody of [the nLab](https://ncatlab.org/nlab/show/HomePage)!
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) - a GAN that generates images of non-existent people
 
 - [Cara Dunkerley's site](https://caradunkerley.com/) - my sibling makes art, check it out!
