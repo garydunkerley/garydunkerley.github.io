@@ -24,8 +24,8 @@ Here are some talks I have notes or slides for. Warning: recent slides were made
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| *On the analogy between knots and primes* ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
 | **2020** 	| *Topological quantum field theory and the Jones polynomial* ([slides]({{ site.baseurl }}/files/slides/TQFT_slides.pdf)) | Brandeis GSS
-|      	| _Primer for knots and links reading course_ ([slides]({{ site.baseurl }}/files/slides/KnotTheory.pdf)) | Reading Course
-| **2018**	| *In search of an equivariant characterization of the tropical Grassmannian* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
+|      	| _Primer for knots and links reading course_ ([slides]({{ site.baseurl }}/files/slides/KnotTheory.pdf)) | Brandeis Course
+| **2018**	| *In search of an equivariant characterization of the tropical Grassmannian G(2,4)* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
 
 ## Notes
 These are notes I typed up to facilitate my understanding on various topics. If you find any errors, please let me know!
@@ -41,5 +41,4 @@ These are notes I typed up to facilitate my understanding on various topics. If 
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
 + Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
 	* A fun side-project on a simple game theory problem.
-+ Undergraduate research project on tropical grassmannians ([pdf]({{site.baseurl }}/files/notes/tropical_research.pdf))
 
