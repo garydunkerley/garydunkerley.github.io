@@ -11,7 +11,7 @@ My goals in teaching are heavily inspired by Federico Ardila's [axioms](http://m
 I encourage students to imagine themselves as capable of mathematical growth through natural processes of curiousity and investigation. I see it as my responsibility to compassionately push my students to grow, but also to desire growth.
 
 ## Teaching 
-+ **(Upcoming)** Fall 2022: MATH 1113 (Precalculus)
++ Fall 2022: MATH 1113 (Precalculus)
 	* Undergraduate, The University of Georgia
 + Fall 2019: MATH 105A (Introduction to Real Analysis) 
 	* Undergraduate, Brandeis University 
