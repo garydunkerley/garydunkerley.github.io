@@ -18,7 +18,7 @@ UGA students may be interested in the [student resources](https://garydunkerley.
  
 
 ## Selected talks & presentations 
-Here are some talks I have notes or slides for. Warning: recent slides were made with Goodnotes and so are quite large.
+Warning: recent slides were made with Goodnotes and so are quite large.
 
 | **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
@@ -28,7 +28,7 @@ Here are some talks I have notes or slides for. Warning: recent slides were made
 | **2018**	| *In search of an equivariant characterization of the tropical Grassmannian G(2,4)* ([slides]({{ site.baseurl }}/files/slides/tropical_presentation.pdf)) | Hillsdale College
 
 ## Notes
-These are notes I typed up to facilitate my understanding on various topics. If you find any errors, please let me know!
+Notes on various topics. If you find any errors, please let me know!
 
 | **In progress** | *Bundles, Contact structures, and the Pontryagin construction* 
 | **2021** | *Knot theory and related topics* ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
