@@ -12,7 +12,7 @@ redirect_from:
 
 ## A little about me...
 
-I'm a second-year at UGA who's passionate about mathematics, low-dimensional topology and geometry especially. 
+I'm a graduate student at UGA where I'm studying low-dimensional topology. 
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
