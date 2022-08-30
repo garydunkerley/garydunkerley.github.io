@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gary D. Dunkerley"
 title_separator          : "-"
-name                     : &name "Gary D. Dunkerley"
+name                     : &name ""
 description              : &description "Gary D. Dunkerley"
 url                      : https://garydunkerley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "headshot_blue.jpeg"
-  bio              : "he 𒄃 him <br> firstlast at uga dot edu <br> Prefers to talk on Signal" 
+  bio              : "he 𒄃 him <br> firstlast at uga dot edu <br> This sentence describes me." 
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
