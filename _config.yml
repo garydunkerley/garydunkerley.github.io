@@ -20,12 +20,12 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "headshot_blue.jpeg"
-  bio              : "he 𒄃 him <br> firstlast at uga dot edu <br> This sentence describes me." 
+  bio              : "``You must be imaginative, strong-hearted. You must try things that may not work, and you must not let anyone define your limits because of where you come from. Your only limit is your soul.'' <br> - Chef Gusteau" 
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "garydunkerley@uga.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
