@@ -9,22 +9,6 @@ redirect_from:
   - /about.html
 ---
 ![Oyster Peak]({{ base.url}}/images/oyster_peak_2022.jpg "Oyster Peak, Bellingham, WA")
-<p style="text-algin: center;">
-<sub>"If you came this way,<br>
-Taking the route you would be likely to take<br>
-From the place you would be likely to come from...<br>
-If you came by day not knowing what you came for,<br>
-It would be the same, when you leave...<br>
-And what you thought you came for<br>
-Is only a shell, a husk of meaning<br>
-From which the purpose breaks only when it is fulfilled<br>
-If at all. Either you had no purpose<br>
-Or the purpose is beyond the end you figured<br>
-And is altered in fulfillment. There are other places<br>
-Which also are the world's end..."<br>
-- T.S. Eliot, _Little Gidding_ 
-</sub>
-</p>
 
 ## A little about me...
 
@@ -57,4 +41,22 @@ Notes on various topics. If you find any errors, please let me know!
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
 + Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
 	* A fun side-project on a simple game theory problem.
+
+<p style="text-align: center;">
+<sub>"If you came this way,<br>
+Taking the route you would be likely to take<br>
+From the place you would be likely to come from...<br>
+If you came by day not knowing what you came for,<br>
+It would be the same, when you leave...<br>
+And what you thought you came for<br>
+Is only a shell, a husk of meaning<br>
+From which the purpose breaks only when it is fulfilled<br>
+If at all. Either you had no purpose<br>
+Or the purpose is beyond the end you figured<br>
+And is altered in fulfillment. There are other places<br>
+Which also are the world's end..."<br>
+- T.S. Eliot, _Little Gidding_ 
+</sub>
+</p>
+
 
