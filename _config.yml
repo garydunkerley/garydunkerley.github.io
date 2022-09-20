@@ -20,17 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "headshot_blue.jpeg"
-  bio              : "'' If you came this way, /
-Taking the route you would be likely to take /
-From the place you would be likely to come from... /
-If you came by day not knowing what you came for, /
-It would be the same, when you leave the rough road /
-And turn behind the pig-sty to the dull facade /
-And the tombstone. And what you thought you came for / 
-Is only a shell, a husk of meaning / 
-From which the purpose breaks only when it is fulfilled / 
-If at all. Either you had no purpose /
-Or the purpose is beyond the end you figured / And is altered in fulfillment. There are other places / Which also are the world's end...'' <br> - T.S. Eliot" 
+  bio              : ""
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
