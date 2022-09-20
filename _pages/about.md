@@ -55,7 +55,7 @@ If at all. Either you had no purpose<br>
 Or the purpose is beyond the end you figured<br>
 And is altered in fulfillment. There are other places<br>
 Which also are the world's end..."<br>
-- T.S. Eliot, _Little Gidding_ 
+- T.S. Eliot, *Little Gidding* 
 </sub>
 </p>
 
