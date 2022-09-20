@@ -42,10 +42,19 @@ Notes on various topics. If you find any errors, please let me know!
 + Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
 	* A fun side-project on a simple game theory problem.
 
->If you came this way,\Taking the route you would be likely to take\From the place you would be likely to come from...\If you came by day not knowing what you came for,\It would be the same, when you leave...\And what you thought you came for\Is only a shell, a husk of meaning\From which the purpose breaks only when it is fulfilled\If at all. Either you had no purpose\Or the purpose is beyond the end you figured\And is altered in fulfillment. There are other places\Which also are the world's end..."
+>If you came this way,\
+Taking the route you would be likely to take\
+From the place you would be likely to come from...\
+If you came by day not knowing what you came for,\
+It would be the same, when you leave...\
+And what you thought you came for\
+Is only a shell, a husk of meaning\
+From which the purpose breaks only when it is fulfilled\
+If at all. Either you had no purpose\
+Or the purpose is beyond the end you figured\
+And is altered in fulfillment. There are other places\
+Which also are the world's end..."
 \
-- T.S. Eliot, *Little Gidding* 
-</sub>
-</p>
+T.S. Eliot, *Little Gidding* 
 
 
