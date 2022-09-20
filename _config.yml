@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "headshot_blue.jpeg"
-  bio              : "''You must be imaginative, strong-hearted. You must try things that may not work, and you must not let anyone define your limits because of where you come from. Your only limit is your soul.'' <br> - Chef Gusteau" 
+  bio              : "<small>''You must be imaginative, strong-hearted. You must try things that may not work, and you must not let anyone define your limits because of where you come from. Your only limit is your soul.'' <br> - Chef Gusteau</small>" 
   location         : "Boyd 434J <br> The University of Georgia"
   employer         : #The University of Georgia"
   pubmed           : 
