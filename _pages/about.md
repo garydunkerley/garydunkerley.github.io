@@ -53,7 +53,7 @@ From which the purpose breaks only when it is fulfilled\
 If at all. Either you had no purpose\
 Or the purpose is beyond the end you figured\
 And is altered in fulfillment. There are other places\
-Which also are the world's end..."
+Which also are the world's end...
 \
 - T.S. Eliot, "Little Gidding" 
 
