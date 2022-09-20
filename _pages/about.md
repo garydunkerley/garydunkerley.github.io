@@ -10,18 +10,18 @@ redirect_from:
 ---
 ![Oyster Peak]({{ base.url}}/images/oyster_peak_2022.jpg "Oyster Peak, Bellingham, WA")
 <p style="text-algin: center;">
-<sub>"If you came this way,\
-Taking the route you would be likely to take\
-From the place you would be likely to come from...\
-If you came by day not knowing what you came for,\
-It would be the same, when you leave...\
-And what you thought you came for\
-Is only a shell, a husk of meaning\
-From which the purpose breaks only when it is fulfilled\
-If at all. Either you had no purpose\
-Or the purpose is beyond the end you figured\
-And is altered in fulfillment. There are other places\
-Which also are the world's end..."\
+<sub>"If you came this way,<br>
+Taking the route you would be likely to take<br>
+From the place you would be likely to come from...<br>
+If you came by day not knowing what you came for,<br>
+It would be the same, when you leave...<br>
+And what you thought you came for<br>
+Is only a shell, a husk of meaning<br>
+From which the purpose breaks only when it is fulfilled<br>
+If at all. Either you had no purpose<br>
+Or the purpose is beyond the end you figured<br>
+And is altered in fulfillment. There are other places<br>
+Which also are the world's end..."<br>
 - T.S. Eliot, _Little Gidding_ 
 </sub>
 </p>
