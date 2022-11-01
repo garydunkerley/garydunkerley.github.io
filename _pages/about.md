@@ -12,7 +12,7 @@ redirect_from:
 
 ## A little about me...
 
-I'm a graduate student at UGA where I'm studying low-dimensional topology. I'm currently interested in using [everyone's favorite Floer theory](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) to answer questions about knots, knotted surfaces, and contact manifolds. 
+I'm a graduate student at UGA. I'm currently studying [everyone's favorite Floer theory](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and am broadly interested in knots (especially the space of all of them), surfaces in dimension four, and contact manifolds.
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
  
