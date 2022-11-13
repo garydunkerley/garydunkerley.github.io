@@ -30,6 +30,7 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 
 ## Notes
 Notes on various topics. If you find any errors, please let me know!
+
 | **2021** | *Knot theory and related topics* ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
 | **2020** | *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
 
