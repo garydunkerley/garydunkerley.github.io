@@ -35,8 +35,4 @@ Notes on various topics. If you find any errors, please let me know!
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
-<!--
-+ Investigating sequential *n*-player duel games ([pdf]({{ site.baseurl }}/files/notes/duels.pdf))
-	* A fun side-project on a simple game theory problem.
--->
 
