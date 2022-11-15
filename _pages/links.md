@@ -24,5 +24,5 @@ author_profile: true
 ### Humor
 - [mLab](https://cemulate.github.io/the-mlab/) - the official parody of [the nLab](https://ncatlab.org/nlab/show/HomePage)!
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) - a GAN that generates images of non-existent people
-- [a thread on why the circle is the best topological space](https://www.reddit.com/r/math/comments/cuv8me/give_me_any_space_and_ill_tell_you_why_s1_is/?utm_source=share&utm_medium=web2x&context=3) - "He's right you know"
+- [a thread on why the circle is the best topological space](https://www.reddit.com/r/math/comments/cuv8me/give_me_any_space_and_ill_tell_you_why_s1_is/?utm_source=share&utm_medium=web2x&context=3)
 
