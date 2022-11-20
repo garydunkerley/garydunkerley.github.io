@@ -22,7 +22,7 @@ author:
   avatar           : "headshot_blue.jpeg"
   bio              : "Boyd 434J <br> firstlast at uga dot edu"
   location         : "Athens, Georgia"
-  employer         : "The University of Georgia"
+  employer         : #"The University of Georgia"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  
@@ -38,7 +38,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gary-d-82024720b/"
   orcid            : "https://orcid.org/0000-0002-4057-1292"
   pinterest        :
   soundcloud       :
