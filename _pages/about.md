@@ -13,7 +13,7 @@ redirect_from:
 ## Hello!
 
 I'm a graduate student at UGA, currently thinking about [everyone's favorite Floer theory](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and surfaces in 4-manifolds.
-I try to fit in some trailbiking in my spare time!
+I try to do some trailbiking in my spare time! 
 
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
@@ -38,4 +38,8 @@ Notes on various topics. If you find any errors, please let me know!
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
+
+
+![Me with my primary collaborators]({{ base.url}}/images/collaborators.png "They know quite a bit about knot Floer homology.")
+
 
