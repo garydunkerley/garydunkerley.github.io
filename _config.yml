@@ -20,12 +20,12 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : "Gary D. Dunkerley"
   avatar           : "headshot_blue.jpeg"
-  bio              : "Boyd 434J"
+  bio              : "Boyd 434J <br> firstlast at uga dot edu"
   location         : "Athens, Georgia"
-  employer         : #The University of Georgia"
+  employer         : "The University of Georgia"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "garydunkerley@uga.edu" 
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
