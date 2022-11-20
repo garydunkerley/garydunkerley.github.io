@@ -12,7 +12,7 @@ redirect_from:
 
 ## Hello!
 
-I'm a graduate student at UGA, currently thinking about [everyone's favorite Floer theory](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and surfaces in 4-manifolds.
+I'm a graduate student at UGA; currently, I'm thinking about [everyone's favorite Floer theory](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and surfaces in 3- & 4-manifolds. 
 I try to do some trailbiking in my spare time! 
 
 
