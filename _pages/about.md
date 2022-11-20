@@ -41,6 +41,6 @@ Notes on various topics. If you find any errors, please let me know!
 
 ## My collaborators
 
-![Me with my primary collaborators]({{ base.url}}/images/collaborators.png "Me with my collaborators. They're very helpful.")
+![Collaborators]({{ base.url}}/images/collaborators.png "They're very helpful.")
 
 
