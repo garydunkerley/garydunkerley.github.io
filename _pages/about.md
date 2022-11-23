@@ -12,7 +12,7 @@ redirect_from:
 
 ## Hello!
 
-I'm a graduate student at UGA; currently, I'm thinking about [everyone's favorite Floer theory](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and surfaces in 3- & 4-manifolds. 
+I'm a graduate student at UGA; currently, I'm thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how the structures of 3- & 4-manifolds are influenced by the surfaces that ["sit"](https://en.wikipedia.org/wiki/Embedding) inside of them. 
 I try to do some trailbiking in my spare time! 
 
 
@@ -31,15 +31,15 @@ UGA students may be interested in the [student resources](https://garydunkerley.
 ## Notes
 Notes on various topics. If you find any errors, please let me know!
 
-| **2021** | *Knot theory and related topics* ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
-| **2020** | *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
+| *Knot theory and related topics* ([pdf]({{ site.baseurl }}/files/notes/notes_on_knot_theory.pdf))
+| *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
 
 
 ## Miscellanea
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
 
-## My collaborators
+## Meet my collaborators
 
 ![Collaborators]({{ base.url}}/images/collaborators.png "They're very helpful.")
 
