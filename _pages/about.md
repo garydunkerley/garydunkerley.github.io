@@ -41,6 +41,6 @@ Notes on various topics. If you find any errors, please let me know!
 
 ## Meet my collaborators
 
-![Collaborators]({{ base.url}}/images/collaborators.png "They're very helpful.")
+![Collaborators]({{ base.url}}/images/collaborators.png "They understand the knot concordance group much better than I do.")
 
 
