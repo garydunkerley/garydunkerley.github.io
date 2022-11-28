@@ -20,6 +20,7 @@ UGA students may be interested in the [student resources](https://garydunkerley.
  
 
 ## Selected talks & presentations
+
 | **2022** | *Summiting HFK: A view from the top and next-to-top grading* (slides coming soon) | UGA GSTS
 | 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
