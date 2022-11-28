@@ -12,7 +12,7 @@ redirect_from:
 
 ## Hello!
 
-I'm a graduate student at UGA; currently, I'm thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how the structures of 3- & 4-manifolds are influenced by the surfaces that ["sit"](https://en.wikipedia.org/wiki/Embedding) inside of them. 
+I'm a graduate student at UGA. I'm currently thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how the structures of 3- & 4-manifolds are influenced by the surfaces that ["sit"](https://en.wikipedia.org/wiki/Embedding) inside of them. 
 I try to do some trailbiking in my spare time! 
 
 
@@ -20,8 +20,8 @@ UGA students may be interested in the [student resources](https://garydunkerley.
  
 
 ## Selected talks & presentations
-
-| **2022** 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
+| **2022** | *Summiting HFK: A view from the top and next-to-top grading* (slides coming soon) | UGA GSTS
+| 	| *Spin & spinᶜ: a creature double-feature* ([slides]({{ site.baseurl }}/files/slides/SpinStruct.pdf)) | UGA GSTS                        
 |      	| *Cutting out knots* ([slides]({{ site.baseurl }}/files/slides/cutting_out_knots.pdf)) | UGA GSS
 | **2021** 	| *On the analogy between knots and primes* ([slides]({{ site.baseurl }}/files/slides/knotsPrimesTalk2021.pdf)) | UGA GSS
 | **2020** 	| *Topological quantum field theory and the Jones polynomial* ([slides]({{ site.baseurl }}/files/slides/TQFT_slides.pdf)) | Brandeis GSS
