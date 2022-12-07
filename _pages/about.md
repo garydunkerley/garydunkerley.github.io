@@ -12,8 +12,8 @@ redirect_from:
 
 ## Hello!
 
-I'm a graduate student at UGA. I'm currently thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how the structures of 3- & 4-manifolds are influenced by the surfaces that ["sit"](https://en.wikipedia.org/wiki/Embedding) inside of them. 
-I try to do some trailbiking in my spare time! 
+I'm a graduate student at UGA. I'm currently thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how surfaces influence the structure of a 3- or 4-manifold. 
+I try to do some trailbiking and foraging in my spare time! 
 
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
