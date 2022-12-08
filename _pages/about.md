@@ -10,10 +10,11 @@ redirect_from:
 ---
 ![Oyster Peak]({{ base.url}}/images/oyster_peak_2022.jpg "Oyster Peak, Bellingham, WA")
 
-## Hello!
+## About
 
-I'm a graduate student at UGA. I'm currently thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how surfaces influence the structure of a 3- or 4-manifold. 
-I try to do some trailbiking and foraging in my spare time! 
+I'm a graduate student at UGA where I am studying low-dimensional topology.
+I'm currently thinking about [Heegaard Floer homology](https://en.wikipedia.org/wiki/Floer_homology#Heegaard_Floer_homology) and how surfaces influence the structure of a 3- or 4-manifold.
+When not working with my [Collaborators]({{ base.url}}/images/collaborators.png), I enjoy trailbiking and foraging in my spare time! 
 
 
 UGA students may be interested in the [student resources](https://garydunkerley.github.io/student_resources) page of this site.
@@ -40,8 +41,16 @@ Notes on various topics. If you find any errors, please let me know!
 + Submission to the Alignment Research Center's *Eliciting Latent Knowledge Proposal Contest* ([pdf]({{ site.baseurl }}/files/notes/ELK.pdf))
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
 
-## Meet my collaborators
 
-![Collaborators]({{ base.url}}/images/collaborators.png "They understand the knot concordance group much better than I do.")
+> Footfalls echo in the memory..
+> Down the passage which we did not take.. 
+> Towards the door we never opened.. 
+> Into the rose-garden. My words echo.. 
+> Thus, in your mind. .. 
+>	But to what purpose .. 
+> Disturbing the dust on a bowl of rose-leaves .. 
+> I do not know. .. 
+>	Other echoes .. 
+> Inhabit the garden. Shall we follow?
 
 
