@@ -42,6 +42,5 @@ Notes on various topics. If you find any errors, please let me know!
 	* This proposal considers the following problem: suppose you have an intelligent algorithm equipped with a reporter which answers questions (posed by a human) about the algorithm's knowledge and decision-making. How do you encourage the reporter to accurately convey the algorithm's knowledge even when a human would be fooled by a false answer? We adapt the Alignment Research Center's [SmartVault](https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit) example and sketch a strategy for accurate knowledge representation and how one might encourage an honest reporter via an adversarial architecture.   
 
 
-> Footfalls echo in the memory<br>Down the passage which we did not take<br>Towards the door we never opened<br>Into the rose-garden. My words echo<br>Thus, in your mind.<br>But to what purpose<br>Disturbing the dust on a bowl of rose-leaves<br>I do not know.<br>Other echoes<br>Inhabit the garden. Shall we follow? 
-
+> Footfalls echo in the memory<br>Down the passage which we did not take<br>Towards the door we never opened<br>Into the rose-garden.<br>... <br>But to what purpose<br>Disturbing the dust on a bowl of rose-leaves<br>I do not know.<br>Other echoes<br>Inhabit the garden. Shall we follow?<br> <br> T.S. Eliot, "Burnt Norton"
 
