@@ -14,11 +14,6 @@ Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga
 I co-organize the UGA [Graduate Student Seminar](https://www.math.uga.edu/graduate-student-seminar) with [Rishika Agrawal](https://math.franklin.uga.edu/directory/people/rishika-agrawal).  Please let one of us know if you would like to speak!
 
 
- 
-## Notes
-
-| *Bernstein-Sato polynomials* ([pdf]({{ site.baseurl }}/files/notes/bernstein-sato.pdf))
-
 ## Upcoming travel 
 
 | **April** | [2024 Graduate Student Topology and Geometry Workshop](https://sites.google.com/view/gstgc2024msu/home) |

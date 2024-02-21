@@ -19,9 +19,9 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Gary D. Dunkerley"
-  avatar           : "headshot_blue.jpeg"
-  bio              : "Boyd 434J <br> firstlast at uga dot edu"
-  location         : "Athens, Georgia"
+  avatar           : "Selfie.jpg"
+  bio              : "firstlast at uga dot edu"
+  location         : "Boyd 424J <br>Athens, Georgia"
   employer         : #"The University of Georgia"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
