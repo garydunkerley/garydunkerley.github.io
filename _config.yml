@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gary D. Dunkerley"
+title                    : "Gary D Dunkerley"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Gary D. Dunkerley"
+description              : &description
 url                      : https://garydunkerley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
