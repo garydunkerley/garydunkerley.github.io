@@ -3,18 +3,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/
     
-    # - title: "Portfolio"
-    # url: /portfolio/
-        
-    # - title: "Blog Posts"
-    # url: /year-archive/
-    
-  - title: "Links"
-    url: /links/
-        
+            
   - title: "CV"
     url: /files/Dunkerley_CV.pdf
 
-    # - title: "Guide"
-    # url: /markdown/
