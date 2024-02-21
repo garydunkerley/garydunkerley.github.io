@@ -1,13 +1,14 @@
 # main links links
 main:
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "CV"
+    url: /files/Dunkerley_CV.pdf
 
   - title: "Talks"
     url: /talks/
+  
+  - title: "Teaching"
+    url: /teaching/    
+
     
             
-  - title: "CV"
-    url: /files/Dunkerley_CV.pdf
 
