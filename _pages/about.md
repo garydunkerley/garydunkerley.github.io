@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/) where I am studying under [Akram Alishahi](https://akramalishahi.github.io/). I am thinking about links, surfaces in 4-manifolds, homology cobordisms, and topics related to the Heegaard Floer and Khovanov homology packages.  
+Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/) where I am studying under [Akram Alishahi](https://akramalishahi.github.io/). I am thinking about knots and links, surfaces in 4-manifolds, and topics related to the Heegaard Floer and Khovanov homology packages.  
 
 I co-organize the UGA [Graduate Student Seminar](https://www.math.uga.edu/graduate-student-seminar) with [Rishika Agrawal](https://math.franklin.uga.edu/directory/people/rishika-agrawal).  Please let one of us know if you would like to speak!
 
