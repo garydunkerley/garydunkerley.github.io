@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 author:
   name             : ""
   avatar           : "Selfie.jpg"
-  bio              : "firstlast at uga dot edu"
+  bio              : "✉ firstlast at uga dot edu"
   location         : "Boyd 643 <br>Athens, Georgia"
   employer         : #"The University of Georgia"
   pubmed           : 
