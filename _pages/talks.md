@@ -13,7 +13,7 @@ author_profile: true
 Below is a list of contributed talks with links to slides if applicable. 
 
 | **2023** | *Squeezed knots and slice torus invariants* ([slides]({{ site.baseurl }}/files/slides/oralExam.pdf)) | Candidacy Oral Exam      
-| 	| *Slice torus invariants and genus minimizing cobordisms* ([slides]({{ site.baseurl }}/files/slides/slideTorus.pdf)) | Harvard, GSTGC 2023
+| 	| *Slice torus invariants and genus minimizing cobordisms* ([slides]({{ site.baseurl }}/files/slides/sliceTorus.pdf)) | Harvard, GSTGC 2023
 |	| *Towards the Jones Conjecture* | UGA GSS
 |	| *On Agol's proof that ribbon concordance is a partial order* | UGA GSTS
 | **2022** | *HFK: top and next-to-top gradings* ([slides]({{ site.baseurl }}/files/slides/top_knot_floer.pdf)) | UGA GSTS     
