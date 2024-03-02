@@ -16,6 +16,6 @@ I co-organize the UGA [Graduate Student Seminar](https://www.math.uga.edu/gradua
 
 ## Upcoming travel 
 
-| **April** | [2024 Graduate Student Topology and Geometry Workshop](https://sites.google.com/view/gstgc2024msu/home) |
+| **April** | [2024 Graduate Student Topology and Geometry Conference](https://sites.google.com/view/gstgc2024msu/home) |
 | **May** | [The Georgia Topology Summer School on knotted surfaces in four dimensions](https://topology.franklinresearch.uga.edu/2024GTSC) |
 | | [The Georgia Topology Conference](https://topology.franklinresearch.uga.edu/2024GTSC) |
