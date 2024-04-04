@@ -1,7 +1,9 @@
-# main links links
+# main links
 main:
   - title: "CV"
     url: /files/Dunkerley_CV.pdf
+  - title: "Research"
+    url: /research/
 
   - title: "Talks"
     url: /talks/
@@ -11,4 +13,3 @@ main:
 
     
             
-
