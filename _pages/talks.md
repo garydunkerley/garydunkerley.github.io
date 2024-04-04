@@ -12,6 +12,7 @@ author_profile: true
 
 Below is a list of contributed talks with links to slides if applicable. 
 
+| **2024** | *Cabling squeezed knots* | UGA, GSTS  
 | **2023** | *Squeezed knots and slice torus invariants* ([slides]({{ site.baseurl }}/files/slides/oralExam.pdf)) | UGA, Candidacy Oral Exam      
 | 	| *Slice torus invariants and genus minimizing cobordisms* ([slides]({{ site.baseurl }}/files/slides/sliceTorus.pdf)) | Harvard, GSTGC 
 |	| *Towards the Jones Unknotting Conjecture* | UGA, GSS
