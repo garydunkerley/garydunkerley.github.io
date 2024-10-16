@@ -16,7 +16,6 @@ I co-organize the UGA [Graduate Student Seminar](https://www.math.uga.edu/gradua
 
 ## Upcoming travel 
 
-| **September** | [Fall AMS Sectional Meeting: San Antonio](https://www.ams.org/meetings/sectional/2319_other.html) |
 
 
 
