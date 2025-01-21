@@ -9,12 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/) where I am studying under [Akram Alishahi](https://akramalishahi.github.io/). I am interested in low-dimensional topology, knot theory specifically.
-
-I co-organize the UGA [Graduate Student Seminar](https://www.math.uga.edu/graduate-student-seminar) with [Rishika Agrawal](https://math.franklin.uga.edu/directory/people/rishika-agrawal).  Please let one of us know if you would like to speak!
-
-
-## Upcoming travel 
+Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/). My advisor is [Akram Alishahi](https://akramalishahi.github.io/). I am interested in questions related to the behavior of smooth concordance invariants.  
 
 
 
