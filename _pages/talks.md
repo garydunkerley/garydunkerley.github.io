@@ -13,7 +13,7 @@ Slides available upon request.
 
 #### Invited
 
-| **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Sectional
+| **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Central Sectional
 
 
 
