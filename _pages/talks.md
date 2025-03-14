@@ -15,6 +15,9 @@ Slides available upon request.
 
 | **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Sectional
 
+
+
+
 ###Contributed
 
 | **2024**	| *Cables of squeezed knots* | chalk | UGA, GSTS  
