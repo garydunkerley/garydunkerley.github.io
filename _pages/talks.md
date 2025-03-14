@@ -18,7 +18,7 @@ Slides available upon request.
 
 
 
-###Contributed
+### Contributed
 
 | **2024**	| *Cables of squeezed knots* | chalk | UGA, GSTS  
 | **2023** | *Squeezed knots and slice torus invariants* | slide | UGA, Candidacy Oral Exam      
