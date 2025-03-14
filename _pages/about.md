@@ -9,8 +9,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/). My advisor is [Akram Alishahi](https://akramalishahi.github.io/). I am interested in questions related to the behavior of smooth concordance invariants.  
-
-
-
+Hi! I'm a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/). My advisor is [Akram Alishahi](https://akramalishahi.github.io/). I am interested in questions related to surfaces in 4-manifolds, concordance invariants, and link homology. 
 

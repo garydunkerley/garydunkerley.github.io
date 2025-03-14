@@ -9,10 +9,15 @@ author_profile: true
 
 
 ### SELECTED TALKS & PRESENTATIONS
+Slides available upon request.
 
-Below is a list of contributed talks. Slides available upon request.
+#### Invited
 
-| **2024** | *Cabling squeezed knots* | chalk | UGA, GSTS  
+| **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Sectional
+
+###Contributed
+
+| **2024**	| *Cables of squeezed knots* | chalk | UGA, GSTS  
 | **2023** | *Squeezed knots and slice torus invariants* | slide | UGA, Candidacy Oral Exam      
 | 	| *Slice torus invariants and genus minimizing cobordisms* | slide | Harvard, GSTGC 
 |	| *Goeritz matrices and the Jones polynomial* | chalk | UGA, GSS
