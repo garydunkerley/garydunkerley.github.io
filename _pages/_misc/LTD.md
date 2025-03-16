@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /_misc/LTD
+permalink: /LTD/
 author_profile: true
 ---
 
