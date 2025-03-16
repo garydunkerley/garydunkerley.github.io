@@ -1,8 +1,4 @@
 ---
-layout: archive
-title: ""
-permalink: /LTD/
-author_profile: true
+permalink: /LTD.html
 ---
 
-{% include LTD.html %}
