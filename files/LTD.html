@@ -54,12 +54,12 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
   <body>
 		  <div id="infoBox"> 
 				  <h3> Lissajous-toric knots and singular disks </h3>
-				  Given \(p,q,r \in \mathbb{Z}\) and \(\phi \in \mathbb{R}\), consider the parametized curve \(\gamma : [0,2\pi] \rightarrow \mathbb{R}^3\) via the coordinate functions
+				  Given \(H,p,q \in \mathbb{Z}\) and \(\phi \in \mathbb{R}\), consider the parametized curve \(\gamma : [0,2\pi] \rightarrow \mathbb{R}^3\) via the coordinate functions
 
-				  \[x(t) = (2+\sin(qt))\cos(pt)\]  \[y(t) = (2+\sin(qt))\sin(pt) \]  \[z(t) = \cos(r(t+\phi)) \]  
+				  \[x(t) = (2+\sin(qt))\cos(Ht)\]  \[y(t) = (2+\sin(qt))\sin(Ht) \]  \[z(t) = \cos(p(t+\phi)) \]  
 
-				When \(\gcd(p,q)=\gcd(p,r)=1\) and \(\phi\) chosen so that \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes  
-				  the <b>Lissajous-toric knot</b> \(K(p,q,r,\phi)\). <br> <br>
+				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) chosen so that \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes  
+				  the <b>Lissajous-toric knot</b> \(K(H,p,q,\phi)\). <br> <br>
 				  Plotted right is a singular disk associated with our parametrization of \(K(H,p,q,0.1)\). Thinking of the unit disk as a subset of the complex plane, the map \(\mathbb{D}^2 \rightarrow \mathbb{R}^3\) is defined by coordinate functions obtained as solutions to the Dirichlet boundary problem for the disk: \[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f\] where \(f\) is the result of precomposing any of \(x,y,z\) with the complex logarithm (standard branch cut).
 		  </div>
 		  <script type="text/javascript" async
