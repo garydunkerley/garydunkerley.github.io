@@ -60,7 +60,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 
 				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) chosen so that \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes  
 				  the <b>Lissajous-toric knot</b> \(K(H,p,q,\phi)\). <br> <br>
-				  Plotted right is a singular disk associated with our parametrization of \(K(H,p,q,0.1)\). Thinking of the unit disk as a subset of the complex plane, the map \(\mathbb{D}^2 \rightarrow \mathbb{R}^3\) is defined by coordinate functions obtained as solutions to the Dirichlet boundary problem for the disk: \[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f\] where \(f\) is the result of precomposing any of \(x,y,z\) with the complex logarithm (standard branch cut).
+				  Plotted right is a singular disk associated with our parametrization of \(K(H,p,q,\phi)\). Thinking of the unit disk as a subset of the complex plane, the map \(\mathbb{D}^2 \rightarrow \mathbb{R}^3\) is defined by coordinate functions obtained as solutions to the Dirichlet boundary problem for the disk: \[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f\] where \(f\) is the result of precomposing any of \(x,y,z\) with the complex logarithm (standard branch cut).
 		  </div>
 		  <script type="text/javascript" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
@@ -93,6 +93,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
         q: 19,
         radialSegments: 50,
         angularSegments: 500,
+		phi: 0.1,
         backgroundColor: "#161622",
 		opacity: 1
       };
@@ -116,7 +117,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
           0.1,
           1000
         );
-        camera.position.set(10, 10, 10);
+        camera.position.set(7, 7, 7);
         camera.lookAt(scene.position);
 
         renderer = new THREE.WebGLRenderer({ antialias: true });
@@ -126,12 +127,13 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
         controls = new OrbitControls(camera, renderer.domElement);
 
         // Create the boundary knot and the surface.
-        knotMesh = createKnot(params.H, params.p, params.q, params.angularSegments);
+        knotMesh = createKnot(params.H, params.p, params.q, params.phi, params.angularSegments);
         scene.add(knotMesh);
         surfaceMesh = createSurface(
           params.H,
           params.p,
           params.q,
+		  params.phi,
           params.radialSegments,
           params.angularSegments,
 		  params.opacity
@@ -147,9 +149,10 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 
         // Set up dat.GUI.
         const gui = new GUI();
-        gui.add(params, "H", 1, 30, 1).onChange(updateModel);
-        gui.add(params, "p", 1, 30, 1).onChange(updateModel);
+        gui.add(params, "H", 1, 50, 1).onChange(updateModel);
+        gui.add(params, "p", 1, 50, 1).onChange(updateModel);
         gui.add(params, "q", 2, 50, 1).onChange(updateModel);
+		gui.add(params, "phi", 0, 4, 0.1).onChange(updateModel);
         // gui.add(params, "radialSegments", 10, 100, 1).onChange(updateModel);
         gui.add(params, "angularSegments", 20, 1000, 1).onChange(updateModel);
 		gui.add(params, "opacity", 0, 1, 0.01).onChange(updateModel);
@@ -174,7 +177,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
       }
 
       // Create the boundary curve (black line) using the harmonic formulas at r = 1.
-      function createKnot(H, p, q, angularSegments) {
+      function createKnot(H, p, q, phi, angularSegments) {
         const points = [];
         for (let j = 0; j <= angularSegments; j++) {
           const theta = (j / angularSegments) * 2 * Math.PI;
@@ -186,7 +189,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
             2 * Math.sin(H * theta) -
             0.5 * Math.cos((q + H) * theta) +
             0.5 * Math.sign(q - H) * Math.cos(Math.abs(q - H) * theta);
-          const uz = 2 * Math.cos(p * theta + 0.1);
+          const uz = 2 * Math.cos(p * (theta + phi));
           points.push(new THREE.Vector3(ux, uy, uz));
         }
         const geometry = new THREE.BufferGeometry().setFromPoints(points);
@@ -195,7 +198,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
       }
 
       // Create the surface mesh using the harmonic extension.
-      function createSurface(H, p, q, radialSegments, angularSegments, opacity) {
+      function createSurface(H, p, q, phi, radialSegments, angularSegments, opacity) {
         const geometry = new THREE.BufferGeometry();
         const vertices = [];
 
@@ -222,7 +225,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
               Math.cos(Math.abs(q - H) * theta);
             const uy = term1_y + term2_y + term3_y;
 
-            const uz = 2 * safePow(r, p) * Math.cos(p * theta + 0.1);
+            const uz = 2 * safePow(r, p) * Math.cos(p * (theta + phi));
 
             vertices.push(ux, uy, uz);
           }
@@ -246,34 +249,16 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
         return new THREE.Mesh(geometry, material);
       }
 
-      // Export the current model as an OBJ file for Blender.
-      function downloadOBJ() {
-        const exporter = new OBJExporter();
-        // Group both meshes into one object.
-        const group = new THREE.Group();
-        group.add(knotMesh.clone());
-        group.add(surfaceMesh.clone());
-        const objString = exporter.parse(group);
-        const blob = new Blob([objString], { type: "text/plain" });
-        const link = document.createElement("a");
-        // Generate a filename that includes H, p, q, radialSegments, and angularSegments.
-        const filename = `model_H${params.H}_p${params.p}_q${params.q}_rs${params.radialSegments}_as${params.angularSegments}.obj`;
-        link.href = URL.createObjectURL(blob);
-        link.download = filename;
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-      }
-
       // Rebuild the knot and surface when UI parameters change.
       function updateModel() {
         if (knotMesh) scene.remove(knotMesh);
         if (surfaceMesh) scene.remove(surfaceMesh);
-        knotMesh = createKnot(params.H, params.p, params.q, params.angularSegments);
+        knotMesh = createKnot(params.H, params.p, params.q, params.phi, params.angularSegments);
         surfaceMesh = createSurface(
           params.H,
           params.p,
           params.q,
+		  params.phi,
           params.radialSegments,
           params.angularSegments,
 		  params.opacity
