@@ -2,10 +2,15 @@
 
 Dirichlet Disks for Lissajous-toric knots
 
-This makes a simple webapp that plots an immersed disk bounded by a Lissajous-Toric knot
+A THREE.js app which plots a parametrization of a Lissajous-toric knot and then plots
+a singular map of the disk whose boundary is this knot. 
 
 
-		--->
+The singular disk is the disk guaranteed to exist by solving the Dirichlet boundary problem 
+for each coordinate function.
+
+
+--->
 
 
 <!DOCTYPE html>
@@ -41,6 +46,9 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 		  padding: 5px;
 		  border-radius: 3px;
 		}
+		table, th, td {
+		  border:1px solid black;
+		}
     </style>
     <!-- Import map: Map the bare specifier "three" -->
     <script type="importmap">
@@ -53,14 +61,57 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
   </head>
   <body>
 		  <div id="infoBox"> 
-				  <h3> Lissajous-toric knots and singular disks </h3>
+				<b> Warning: Large parameter values may use a lot of memory </b>
+				<br>
+				<br>
+				Configurations where some (or all) of \(H,p,q\) are negative will produce unbounded surfaces which are 
+				artificially truncated 10 units from the center. 
+
+				<h3> Selected configurations </h3>
+				<table style="width:50%">
+				  <tr>
+					<th>H</th>
+					<th>p</th>
+					<th>q</th>
+				  </tr>
+				  <tr>
+					<td>9</td>
+					<td>16</td>
+					<td>41</td>
+				  </tr>
+				  <tr>
+					<td>7</td>
+					<td>10</td>
+					<td>31</td>
+				  </tr>
+
+				  <tr>
+					<td>7</td>
+					<td>15</td>
+					<td>44</td>
+				  </tr>
+				  <tr>
+					<td>11</td>
+					<td>15</td>
+					<td>34</td>
+				  </tr>
+				  <tr>
+					<td>-10</td>
+					<td>33</td>
+					<td>9</td>
+				  </tr>
+				</table>
+
+				  <h3> What am I looking at? </h3>
 				  Given integers \(H,p,q\) and a real number \(\phi \), consider the parametrized loop \(\gamma : S^1 \rightarrow \mathbb{R}^3\) defined via the coordinate functions
 
 				  \[x(e^{i\theta}) = (2+\sin(q\theta))\cos(H \theta)\]  \[y(e^{i\theta}) = (2+\sin(q \theta))\sin(H \theta) \]  \[z(e^{i\theta}) = \cos(p (\theta+\phi)) \]  
-				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) chosen so that the image of \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes the <b>Lissajous-toric knot</b> \(K(H,p,q,\phi)\). <br> <br>
+				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) is chosen so that the image of \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes the <b>Lissajous-toric knot</b> \(K(H,p,q,\phi)\). <br> <br>
 
 				Using the coordinate functions above as boundary conditions for the Dirichlet problem
-				\[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f,\] one obtains coordinate functions \(X(re^{i\theta}),Y(re^{i\theta}),\) and \(Z(re^{\theta})\) for a singular map of the disk \(D : \mathbb{D}^2 \rightarrow \mathbb{R}^3 \). An approximation of the singular disk for \(K(H,p,q,\phi)\) is plotted to the right.
+				\[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f,\] one obtains coordinate functions \(X(re^{i\theta}),Y(re^{i\theta}),\) and \(Z(re^{\theta})\) for a singular map of the disk \(D : \mathbb{D}^2 \rightarrow \mathbb{R}^3 \). 
+				The plot seen left is an approximation of this disk.
+
 		  </div>
 		  <script type="text/javascript" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
@@ -101,13 +152,18 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
       init();
       animate();
 
-      // A helper function to avoid powers of zero.
+	  //{{{safePow A helper function to avoid powers of zero.
       function safePow(r, exp) {
 		if (r < 1e-6) {
 				return 0;
 		}
+		if (Math.pow(r,exp) > 10) {
+				return 10
+		}
 				return Math.pow(r,exp);
       }
+	  // }}}
+
 
       function init() {
         // Create scene and set background color.
@@ -152,10 +208,10 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 
         // Set up dat.GUI.
         const gui = new GUI();
-        gui.add(params, "H", 1, 50, 1).onChange(updateModel);
-        gui.add(params, "p", 1, 50, 1).onChange(updateModel);
-        gui.add(params, "q", 1, 50, 1).onChange(updateModel);
-		gui.add(params, "phi", 0, 4, 0.1).onChange(updateModel);
+        gui.add(params, "H", -40, 50, 1).onChange(updateModel);
+        gui.add(params, "p", -40, 50, 1).onChange(updateModel);
+        gui.add(params, "q", -40, 50, 1).onChange(updateModel);
+		gui.add(params, "phi", 0, 4, 0.01).onChange(updateModel);
         // gui.add(params, "radialSegments", 10, 100, 1).onChange(updateModel);
         gui.add(params, "angularSegments", 20, 1000, 1).onChange(updateModel);
 		gui.add(params, "opacity", 0, 1, 0.01).onChange(updateModel);
