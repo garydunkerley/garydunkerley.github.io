@@ -25,7 +25,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 		  position: absolute;
 		  top: 10px;
 		  left: 10px;
-		  width: 300px;
+		  width: 400px;
 		  background: rgba(255, 255, 255, 0.8);
 		  padding: 5px;
 		  border-radius: 5px;
@@ -35,7 +35,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 		#toggleButton {
 		  position: absolute;
 		  top: 10px;
-		  left: 330px;
+		  left: 430px;
 		  cursor: pointer;
 		  background: #ccc;
 		  padding: 5px;
@@ -54,13 +54,13 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
   <body>
 		  <div id="infoBox"> 
 				  <h3> Lissajous-toric knots and singular disks </h3>
-				  Given \(H,p,q \in \mathbb{Z}\) and \(\phi \in \mathbb{R}\), consider the parametized curve \(\gamma : [0,2\pi] \rightarrow \mathbb{R}^3\) via the coordinate functions
+				  Given integers \(H,p,q\) and a real number \(\phi \), consider the parametrized loop \(\gamma : S^1 \rightarrow \mathbb{R}^3\) defined via the coordinate functions
 
-				  \[x(t) = (2+\sin(qt))\cos(Ht)\]  \[y(t) = (2+\sin(qt))\sin(Ht) \]  \[z(t) = \cos(p(t+\phi)) \]  
+				  \[x(e^{i\theta}) = (2+\sin(q\theta))\cos(H \theta)\]  \[y(e^{i\theta}) = (2+\sin(q \theta))\sin(H \theta) \]  \[z(e^{i\theta}) = \cos(p (\theta+\phi)) \]  
+				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) chosen so that the image of \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes the <b>Lissajous-toric knot</b> \(K(H,p,q,\phi)\). <br> <br>
 
-				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) chosen so that \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes  
-				  the <b>Lissajous-toric knot</b> \(K(H,p,q,\phi)\). <br> <br>
-				  Seen right is a singular disk associated with our parametrization of \(K(H,p,q,\phi)\) and obtained by solving the Dirichlet boundary problem for the disk: \[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f\] where the role of \(f\) is taken on by the coordinate functions \(x,y,z\), precomposed with the complex logarithm (standard branch cut).
+				Using the coordinate functions above as boundary conditions for the Dirichlet problem
+				\[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f,\] one obtains coordinate functions \(X(re^{i\theta}),Y(re^{i\theta}),\) and \(Z(re^{\theta})\) for a singular map of the disk \(D : \mathbb{D}^2 \rightarrow \mathbb{R}^3 \). An approximation of the singular disk for \(K(H,p,q,\phi)\) is plotted to the right.
 		  </div>
 		  <script type="text/javascript" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
@@ -103,7 +103,10 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
 
       // A helper function to avoid powers of zero.
       function safePow(r, exp) {
-        return Math.pow(Math.max(r, 1e-6), exp);
+		if (r < 1e-6) {
+				return 0;
+		}
+				return Math.pow(r,exp);
       }
 
       function init() {
@@ -151,7 +154,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
         const gui = new GUI();
         gui.add(params, "H", 1, 50, 1).onChange(updateModel);
         gui.add(params, "p", 1, 50, 1).onChange(updateModel);
-        gui.add(params, "q", 2, 50, 1).onChange(updateModel);
+        gui.add(params, "q", 1, 50, 1).onChange(updateModel);
 		gui.add(params, "phi", 0, 4, 0.1).onChange(updateModel);
         // gui.add(params, "radialSegments", 10, 100, 1).onChange(updateModel);
         gui.add(params, "angularSegments", 20, 1000, 1).onChange(updateModel);
@@ -207,14 +210,23 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
           const r = i / radialSegments;
           for (let j = 0; j <= angularSegments; j++) {
             const theta = (j / angularSegments) * 2 * Math.PI;
-            const term1_x = 2 * safePow(r, H) * Math.cos(H * theta);
-            const term2_x = 0.5 * safePow(r, q + H) * Math.sin((q + H) * theta);
-            const term3_x =
-              0.5 *
-              Math.sign(q - H) *
-              safePow(r, Math.abs(q - H)) *
-              Math.sin(Math.abs(q - H) * theta);
-            const ux = term1_x + term2_x + term3_x;
+
+
+/*
+      This is the exact solution, but using it introduces weird plotting behavior in THREE.js
+		const ux = 2 * safePow(r,H) * Math.cos(H * theta) + 0.5 * safePow(r,q+H) * Math.sin((q+H)* theta) + 0.5 * safePow(r,q-H) * Math.sin((q-H)* theta) 
+
+  	Since the exact solution produces plotting issues, we use an approximation for which the plot is reasonably accurate.
+*/
+				const term1_x = 2 * safePow(r, H) * Math.cos(H * theta);
+				const term2_x = 0.5 * safePow(r, q + H) * Math.sin((q + H) * theta);
+				const term3_x =
+				0.5 *
+				Math.sign(q - H) *
+				safePow(r, Math.abs(q - H)) *
+				Math.sin(Math.abs(q - H) * theta);
+
+				const ux = term1_x + term2_x + term3_x;
 
             const term1_y = 2 * safePow(r, H) * Math.sin(H * theta);
             const term2_y = -0.5 * safePow(r, q + H) * Math.cos((q + H) * theta);
@@ -225,6 +237,7 @@ This makes a simple webapp that plots an immersed disk bounded by a Lissajous-To
               Math.cos(Math.abs(q - H) * theta);
             const uy = term1_y + term2_y + term3_y;
 
+		// This function is harmonic
             const uz = 2 * safePow(r, p) * Math.cos(p * (theta + phi));
 
             vertices.push(ux, uy, uz);
