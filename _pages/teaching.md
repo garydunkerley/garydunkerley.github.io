@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My goals in teaching are heavily inspired by Federico Ardila's [axioms](http://math.sfsu.edu/federico/) and [Lockhartian optimism](https://www.goodreads.com/author/show/6421135.Paul_Lockhart).
-
-
+My goals and methods for teaching are inspired by Federico Ardila's [axioms](https://fardila.com/). 
 
 ## Teaching 
 + Spring 2023: MATH 2250 (Calculus I)
