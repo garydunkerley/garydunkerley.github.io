@@ -17,7 +17,7 @@ for each coordinate function.
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Lissajous-toric disks</title>
+    <title>Dirichlet disks</title>
     <style>
       body {
         margin: 0;
@@ -35,10 +35,18 @@ for each coordinate function.
 		  padding: 5px;
 		  border-radius: 5px;
 		  overflow:auto;
+      text-align: center;
 		  max-height:95vh;
 		  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 		  z-index: 100;
 		}
+    #infobox table {
+      margin-left: auto;
+      margin-right: auto;
+      display: table;
+      width: 60%;
+    }
+    
 		#toggleButton {
 		  position: absolute;
 		  top: 10px;
@@ -51,6 +59,20 @@ for each coordinate function.
 		table, th, td {
 		  border:1px solid black;
 		}
+    #infoBox {
+      width: 100%;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    #infoBox table {
+      margin: 2em auto;
+      width: 60%;
+      border-collapse: collapse;
+    }
+    #infoBox th, #infoBox td {
+      text-align: center;
+      padding: 0.5em;
+    }
     </style>
     <!-- Import map: Map the bare specifier "three" -->
     <script type="importmap">
@@ -64,51 +86,64 @@ for each coordinate function.
   <body>
 		  <div id="infoBox"> 
 
-				  <h3> What is it? </h3>
+				  <h3> Dirichlet disks </h3>
 				  This is a plot of a singular disk bounded by a Lissajous-toric knot. <br> <br>
-				  Given integers \(H,p,q\) and a real number \(\phi \), consider the parametrized loop \(\gamma : S^1 \rightarrow \mathbb{R}^3\) defined via the coordinate functions
+				  Given integers \(H,p,q\) and a real number \(\phi \), consider the loop defined in coordinates by
 
 				  \[x(e^{i\theta}) = (2+\sin(q\theta))\cos(H \theta)\]  \[y(e^{i\theta}) = (2+\sin(q \theta))\sin(H \theta) \]  \[z(e^{i\theta}) = \cos(p (\theta+\phi)) \]  
 				When \(\gcd(H,p)=\gcd(H,q)=1\) and \(\phi\) is chosen so that the image of \(\gamma\) does not self-intersect, the curve \(\gamma\) parametrizes the Lissajous-toric knot \(K(H,p,q,\phi)\). <br> <br>
 
 				Using the coordinate functions above as boundary conditions for the Dirichlet problem
-				\[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f,\] one obtains coordinate functions for a singular map of a disk into the 3-sphere.
+				\[ \nabla^2 F = 0 \qquad F|_{\partial \mathbb{D}^2} = f,\] one obtains coordinate functions for a singular map of a disk into the 3-sphere. Seen right is a plot of this singular disk. 
 		<br>
-		Unbounded disks are artificially truncated.
+		<br>
+		Remark: unbounded disks are artificially truncated.
 		<br>
 				<h3> Selected configurations </h3>
-				<table style="width:50%">
+				<table id="configTable">
 				  <tr>
 					<th>H</th>
 					<th>p</th>
 					<th>q</th>
+					<th></th>
 				  </tr>
 				  <tr>
 					<td>9</td>
 					<td>16</td>
 					<td>41</td>
+					<td><button class="setParamsBtn">Try</button></td>
 				  </tr>
 				  <tr>
 					<td>7</td>
 					<td>10</td>
 					<td>31</td>
+					<td><button class="setParamsBtn">Try</button></td>
 				  </tr>
 
 				  <tr>
 					<td>7</td>
 					<td>15</td>
 					<td>44</td>
+					<td><button class="setParamsBtn">Try</button></td>
 				  </tr>
 				  <tr>
 					<td>11</td>
 					<td>15</td>
 					<td>34</td>
+					<td><button class="setParamsBtn">Try</button></td>
 				  </tr>
 				  <tr>
 					<td>-10</td>
 					<td>33</td>
 					<td>9</td>
+					<td><button class="setParamsBtn">Try</button></td>
 				  </tr>
+          <tr>
+            <td>5</td>
+            <td>-2</td>
+            <td>18</td>
+            <td><button class="setParamsBtn">Try</button></td>
+          </tr>
 				</table>
 		  </div>
 		  <script type="text/javascript" async
@@ -146,6 +181,8 @@ for each coordinate function.
         backgroundColor: "#161622",
 		opacity: 1
       };
+
+      let gui, hController, pController, qController;
 
       init();
       animate();
@@ -205,10 +242,10 @@ for each coordinate function.
         scene.add(directionalLight);
 
         // Set up dat.GUI.
-        const gui = new GUI();
-        gui.add(params, "H", -40, 50, 1).onChange(updateModel);
-        gui.add(params, "p", -40, 50, 1).onChange(updateModel);
-        gui.add(params, "q", -40, 50, 1).onChange(updateModel);
+        gui = new GUI();
+        hController = gui.add(params, "H", -40, 50, 1).onChange(updateModel);
+        pController = gui.add(params, "p", -40, 50, 1).onChange(updateModel);
+        qController = gui.add(params, "q", -40, 50, 1).onChange(updateModel);
 		gui.add(params, "phi", 0, 4, 0.01).onChange(updateModel);
         // gui.add(params, "radialSegments", 10, 100, 1).onChange(updateModel);
         gui.add(params, "angularSegments", 20, 1000, 1).onChange(updateModel);
@@ -217,6 +254,12 @@ for each coordinate function.
           scene.background.set(value);
         });
         // gui.add({ download: downloadOBJ }, "download").name("Download .obj");
+
+        window.hController = hController;
+        window.pController = pController;
+        window.qController = qController;
+        window.params = params;
+        window.updateModel = updateModel;
 
         window.addEventListener("resize", onWindowResize, false);
       }
@@ -334,5 +377,30 @@ for each coordinate function.
         scene.add(surfaceMesh);
       }
     </script>
+    <script>
+// Attach event listeners to the Set buttons in the table
+window.addEventListener('DOMContentLoaded', function() {
+  const table = document.getElementById('configTable');
+  if (!table) return;
+  const buttons = table.getElementsByClassName('setParamsBtn');
+  for (let i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener('click', function() {
+      const row = this.parentElement.parentElement;
+      const H = parseInt(row.children[0].textContent);
+      const p = parseInt(row.children[1].textContent);
+      const q = parseInt(row.children[2].textContent);
+      if (window.params) {
+        params.H = H;
+        params.p = p;
+        params.q = q;
+        if (typeof updateModel === 'function') updateModel();
+        if (window.hController) hController.updateDisplay();
+        if (window.pController) pController.updateDisplay();
+        if (window.qController) qController.updateDisplay();
+      }
+    });
+  }
+});
+</script>
   </body>
 </html>
