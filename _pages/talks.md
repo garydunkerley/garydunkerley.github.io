@@ -13,6 +13,7 @@ Slides available upon request.
 
 #### Invited
 
+| **2026** | *Twisting inequalities for the upsilon of generalized theta graphs* | slide | Georgia Southern, AMS Southeastern Sectional 
 | **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Central Sectional
 
 
