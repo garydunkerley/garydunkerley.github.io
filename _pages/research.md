@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ---
-My research focuses on links, spatial graphs, and surfaces in 4-manifolds. In particular, my work focuses on obtaining information about surfaces bounded by links by means of the Heegaard Floer homology package and related invariants. Lately, I have been very interested in the \(\Upsilon\) invariant of Oszváth, Stipsicz, and Szabó.
+My research focuses on links, spatial graphs, and surfaces in 4-manifolds. 
+In particular, my work focuses on obtaining information about surfaces bounded by links by means of the Heegaard Floer homology package and related invariants. 
+Lately, I have been very interested in the $\Upsilon$ invariant of Oszváth, Stipsicz, and Szabó.
 
 ---
 
