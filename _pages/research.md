@@ -13,8 +13,8 @@ My research focuses on links, spatial graphs, and surfaces in 4-manifolds. In pa
 
 ## Papers and preprints
 
-#### A ribbon partial order for links and minimality detection via Heegaard Floer
-[arXiv:2606.20802](https://arxiv.org/abs/2606.20802) (Submitted)
+### A ribbon partial order for links and minimality detection via Heegaard Floer 
+([arXiv:2606.20802](https://arxiv.org/abs/2606.20802), Submitted)
 
 We prove that strong ribbon concordance induces a partial order on links in the 3-sphere,
 extending a result of Agol.
