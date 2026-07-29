@@ -5,15 +5,24 @@ permalink: /research/
 author_profile: true
 ---
 
-## Preprints
+---
+My research focuses on links, spatial graphs, and surfaces in 4-manifolds. In particular, my work focuses on obtaining information about surfaces bounded by links by means of the Heegaard Floer homology package and related invariants. Lately, I have been very interested in the \(\Upsilon\) invariant of Oszváth, Stipsicz, and Szabó.
 
-**A ribbon partial order for links and minimality detection via Heegaard Floer**  
-[arXiv:2606.20802](https://arxiv.org/abs/2606.20802)
+---
+
+
+## Papers and preprints
+
+#### A ribbon partial order for links and minimality detection via Heegaard Floer
+[arXiv:2606.20802](https://arxiv.org/abs/2606.20802) (Submitted)
 
 We prove that strong ribbon concordance induces a partial order on links in the 3-sphere,
 extending a result of Agol.
-We also leverage several technical results from Heegaard Floer homology to prove that a handful of 
+We also leverage technical results from Heegaard Floer homology to prove that a handful of 
 knots and several infinite families of links are minimal with respect to this partial order. 
+
+
+
 
 ---
 
@@ -27,3 +36,4 @@ knots and several infinite families of links are minimal with respect to this pa
 
 Short description of the paper. One or two sentences is usually enough.
 --->
+
