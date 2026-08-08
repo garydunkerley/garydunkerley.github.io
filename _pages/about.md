@@ -9,9 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/). 
-My advisor is [Akram Alishahi](https://akramalishahi.github.io/). 
-I co-organize for the _Topology Working Seminar_ at UGA. 
+I am a doctoral candidate at the [University of Georgia](https://www.math.uga.edu/) where I am advised by [Akram Alishahi](https://akramalishahi.github.io/). 
+We co-organize the _Topology Working Seminar_ at UGA. 
 I am interested in questions related to surfaces in 4-manifolds, smooth concordance invariants, and link homology. 
 
 
