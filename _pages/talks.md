@@ -13,7 +13,10 @@ Slides available upon request.
 
 #### Invited
 
-| **2026** | Ribbon minimal links and 3-manifolds | chalk | UT Austin 
+| **2026** | TBA | chalk | University of Michigan 
+|   | TBA  | chalk | Michigan State University 
+|   | The ribbon partial order and cabling | chalk | Georgia Tech
+|   | Ribbon minimal links and 3-manifolds | chalk | UT Austin   
 |   | *Twisting inequalities for the upsilon of generalized theta graphs* | slide | Georgia Southern, AMS Southeastern Sectional 
 | **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Central Sectional
 
