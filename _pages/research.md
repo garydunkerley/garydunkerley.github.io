@@ -31,7 +31,7 @@ knots and several infinite families of links are minimal with respect to this pa
 
 
 
-## SELECTED TALKS & PRESENTATIONS
+## TALKS
 
 ### Invited
 
@@ -43,11 +43,11 @@ knots and several infinite families of links are minimal with respect to this pa
 | **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Central Sectional
 
 
-#### Contributed
+### Contributed
 
 | **2026** | *New examples of ribbon minimal knots via knot Floer* | poster | Renyi, Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions
 |   | *New examples of ribbon minimal knots via knot Floer homology* | chalk | UGA, Working Seminar  
-|   | *The link surgery formula as a type-D modules* | chalk | UGA, Working Seminar
+|   | *The link surgery formula as a type-D module* | chalk | UGA, Working Seminar
 | **2024** | *Cables of squeezed knots* | chalk | UGA, GSTS  
 | **2023** | *Slice torus invariants and genus minimizing cobordisms* | slide | Harvard, GSTGC 
 |	| *Goeritz matrices and the Jones polynomial* | chalk | UGA, GSS
