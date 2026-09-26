@@ -32,8 +32,7 @@ knots and several infinite families of links are minimal with respect to this pa
 
 
 ## Talks
-
-### Invited
+---
 
 | **2026** | TBA | University of Michigan 
 |   | *On the upsilon invariant of knots and theta graphs* | Michigan State University 
