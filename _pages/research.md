@@ -7,7 +7,9 @@ author_profile: true
 
 ---
 My research focuses on links, spatial graphs, and surfaces in 4-manifolds. 
-I often do so using invariants from the Heegaard Floer homology package.
+I am particularly interested in converting statements about the complexity of a slice surface 
+into algebraic constraints using invariants from the Heegaard Floer homology package.
+
 
 
 ---
