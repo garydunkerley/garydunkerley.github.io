@@ -23,7 +23,13 @@ extending a result of Agol.
 We also leverage technical results from Heegaard Floer homology to prove that a handful of 
 knots and several infinite families of links are minimal with respect to this partial order. 
 
+## In preparation
 
+### Twisting and foam inequalities for the upsilon invariant
+(with William Ballinger)
+
+### Ribbon minimal links
+(with [Alessio Di Prisa](https://sites.google.com/view/alessiodiprisa){:target="_blank"} and [Jaewon Lee](https://freejaewon.github.io/){:target="_blank"})
 
 
 ---
@@ -43,6 +49,7 @@ knots and several infinite families of links are minimal with respect to this pa
 | **2024** | *New perspectives on symmetric unions* | slide | UT San Antonio, AMS Central Sectional
 
 
+<!---
 ### Contributed
 
 | **2026** | *New examples of ribbon minimal knots via knot Floer* | poster | Renyi, Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions
@@ -60,7 +67,6 @@ knots and several infinite families of links are minimal with respect to this pa
 
 
 
-<!---
 ## Publications
 
 **Title of Published Paper**  
