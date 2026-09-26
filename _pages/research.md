@@ -32,7 +32,6 @@ knots and several infinite families of links are minimal with respect to this pa
 
 
 ### SELECTED TALKS & PRESENTATIONS
-Slides available upon request.
 
 #### Invited
 
