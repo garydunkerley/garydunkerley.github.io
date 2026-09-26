@@ -18,7 +18,7 @@ In particular, I am interested in studying surfaces bounded by links by means of
 ### A ribbon partial order for links and minimality detection via Heegaard Floer 
 ([arXiv:2606.20802](https://arxiv.org/abs/2606.20802), Submitted)
 
-We prove that strong ribbon concordance induces a partial order on links in the 3-sphere,
+We prove that ribbon concordance induces a partial order on links in the 3-sphere,
 extending a result of Agol.
 We also leverage technical results from Heegaard Floer homology to prove that a handful of 
 knots and several infinite families of links are minimal with respect to this partial order. 
