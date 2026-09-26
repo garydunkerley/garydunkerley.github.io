@@ -27,17 +27,6 @@ We also leverage technical results from Heegaard Floer homology to prove that a 
 knots and several infinite families of links are minimal with respect to this partial order. 
 
 
-## In preparation
----
-**Twisting and foam inequalities for the upsilon invariant**
-(with William Ballinger)
-
----
-**Ribbon minimal links**
-(with [Alessio Di Prisa](https://sites.google.com/view/alessiodiprisa){:target="_blank"} and [Jaewon Lee](https://freejaewon.github.io/){:target="_blank"})
-
-
----
 
 
 
