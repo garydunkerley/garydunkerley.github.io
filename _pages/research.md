@@ -45,6 +45,7 @@ Slides available upon request.
 
 
 #### Contributed
+
 | **2026** | *New examples of ribbon minimal knots via knot Floer homology* | chalk | UGA, Working Seminar  
 |   | *The link surgery formula as a type-D modules* | chalk | UGA, Working Seminar
 | **2024** | *Cables of squeezed knots* | chalk | UGA, GSTS  
@@ -59,7 +60,7 @@ Slides available upon request.
 | **2021** 	| *On the analogy between knots and primes* | slide | UGA, GSS
 
 
-![]({{ base.url}}/images/branchedCoverHD.png "Josh Greene's algorithm for building a Heegaard diagram for the double branched cover of a knot.")
+
 <!---
 ## Publications
 
