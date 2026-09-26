@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 My research focuses on links, spatial graphs, and surfaces in 4-manifolds. 
-In particular, I am interested in studying surfaces bounded by links by means of the Heegaard Floer homology package and related invariants. 
+I often do so using invariants from the Heegaard Floer homology package.
 
 
 ---
@@ -37,7 +37,7 @@ knots and several infinite families of links are minimal with respect to this pa
 
 
 
-## TALKS
+## Talks
 
 ### Invited
 
