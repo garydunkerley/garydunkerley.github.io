@@ -14,8 +14,9 @@ I often do so using invariants from the Heegaard Floer homology package.
 
 
 ## Papers and preprints
+---
 
-### A ribbon partial order for links and minimality detection via Heegaard Floer 
+**A ribbon partial order for links and minimality detection via Heegaard Floer** 
 ([arXiv:2606.20802](https://arxiv.org/abs/2606.20802), Submitted)
 
 We prove that ribbon concordance induces a partial order on links in the 3-sphere,
@@ -23,16 +24,14 @@ extending a result of Agol.
 We also leverage technical results from Heegaard Floer homology to prove that a handful of 
 knots and several infinite families of links are minimal with respect to this partial order. 
 
----
 
 ## In preparation
-
 ---
-### Twisting and foam inequalities for the upsilon invariant
+**Twisting and foam inequalities for the upsilon invariant**
 (with William Ballinger)
 
 ---
-### Ribbon minimal links
+**Ribbon minimal links**
 (with [Alessio Di Prisa](https://sites.google.com/view/alessiodiprisa){:target="_blank"} and [Jaewon Lee](https://freejaewon.github.io/){:target="_blank"})
 
 
