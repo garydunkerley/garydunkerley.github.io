@@ -36,8 +36,8 @@ knots and several infinite families of links are minimal with respect to this pa
 
 | **2026** | TBA | University of Michigan 
 |   | *On the upsilon invariant of knots and theta graphs* | Michigan State University 
-|   | *The ribbon partial order and cabling* | Georgia Tech
-|   | *Ribbon minimal links and 3-manifolds* | UT Austin   
+|   | *Ribbon minimal knots and links* | Georgia Tech
+|   | *Ribbon minimal knots and links* | UT Austin   
 |   | *Twisting inequalities for the upsilon of generalized theta graphs* | Georgia Southern, AMS Southeastern Sectional 
 | **2024** | *New perspectives on symmetric unions* | UT San Antonio, AMS Central Sectional
 
