@@ -34,10 +34,8 @@ knots and several infinite families of links are minimal with respect to this pa
 ## Talks
 ---
 
-| **2026** | TBA | University of Michigan 
-|   | *On the upsilon invariant of knots and theta graphs* | Michigan State University 
-|   | *Ribbon minimal knots and links* | Georgia Tech
-|   | *Ribbon minimal knots and links* | UT Austin   
+| **2026**  | *The upsilon invariant and generalizations of Batson's surfaces* | UGA, Michigan State University,  University of Michigan | 
+|   | *Ribbon minimal knots and links* | UT Austin, Georgia Tech
 |   | *Twisting inequalities for the upsilon of generalized theta graphs* | Georgia Southern, AMS Southeastern Sectional 
 | **2024** | *New perspectives on symmetric unions* | UT San Antonio, AMS Central Sectional
 
