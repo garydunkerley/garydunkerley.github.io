@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 ---
-My research focuses on links and surfaces in 4-manifolds. 
-I am particularly interested in converting statements about the complexity of a slice surface 
-into algebraic constraints using link homology invariants, such as those coming from Heegaard Floer.
-
+My research focuses on links, spatial graphs, and surfaces in 4-manifolds. 
+I am particularly interested in using invariants from Heegaard Floer theory to study the topology and complexity of surfaces and cobordisms.
 
 ---
 
@@ -40,8 +38,8 @@ knots and several infinite families of links are minimal with respect to this pa
 ---
 
 
-| **2026** | *The upsilon invariant and generalizations of Batson's surfaces* | UGA, Michigan State University,  University of Michigan 
-|   | *Ribbon minimal knots and links* | UT Austin, Georgia Tech
+| **2026** | *The upsilon invariant and generalizations of Batson's surfaces* | UGA; Michigan State University;  University of Michigan 
+|   | *Ribbon minimal knots and links* | UT Austin; Georgia Tech
 |   | *Twisting inequalities for the upsilon of generalized theta graphs* | Georgia Southern, AMS Southeastern Sectional 
 | **2024** | *New perspectives on symmetric unions* | UT San Antonio, AMS Central Sectional
 
