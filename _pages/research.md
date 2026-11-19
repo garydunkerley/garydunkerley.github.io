@@ -17,7 +17,15 @@ into algebraic constraints using invariants from the Heegaard Floer homology pac
 
 ## Papers and preprints
 ---
+**Twisting and foam inequalities for the upsilon invariant**
+([arXiv:2611.23521](https://arxiv.org/abs/2611.23521))
+_w/ William Ballinger_
 
+We describe two families of bounds on the Ozsváth-Stipsicz-Szabó $$\Upsilon_K$$ invariant, one controlling its behavior under inserting full twists into a knot and one controlling a limited class of foams, or singular cobordisms between knots. Our foam bounds make significant use of Alishahi's generalization of $$\Upsilon$$ to knotted graphs and 
+we compute Alishahi's invariant for all theta-graphs lying on the Heegaard torus in the 3-sphere. 
+We also relate the evaluations of $$\Upsilon$$ for torus theta-graphs to a distinguished family of properly embedded 2-complexes in the 4-ball sharing many properties with Batson's nonorientable surfaces.
+
+---
 **A ribbon partial order for links and minimality detection via Heegaard Floer** 
 ([arXiv:2606.20802](https://arxiv.org/abs/2606.20802), Submitted)
 
@@ -34,7 +42,8 @@ knots and several infinite families of links are minimal with respect to this pa
 ## Talks
 ---
 
-| **2026**  | *The upsilon invariant and generalizations of Batson's surfaces* | UGA, Michigan State University,  University of Michigan | 
+
+| **2026** | *The upsilon invariant and generalizations of Batson's surfaces* | UGA, Michigan State University,  University of Michigan 
 |   | *Ribbon minimal knots and links* | UT Austin, Georgia Tech
 |   | *Twisting inequalities for the upsilon of generalized theta graphs* | Georgia Southern, AMS Southeastern Sectional 
 | **2024** | *New perspectives on symmetric unions* | UT San Antonio, AMS Central Sectional
@@ -46,17 +55,6 @@ knots and several infinite families of links are minimal with respect to this pa
 | **2026** | *New examples of ribbon minimal knots via knot Floer* | poster | Renyi, Geometry and Topology in Low Dimensions: Lasting Trends and Emerging Directions
 |   | *New examples of ribbon minimal knots via knot Floer homology* | chalk | UGA, Working Seminar  
 |   | *The link surgery formula as a type-D module* | chalk | UGA, Working Seminar
-| **2024** | *Cables of squeezed knots* | chalk | UGA, GSTS  
-| **2023** | *Slice torus invariants and genus minimizing cobordisms* | slide | Harvard, GSTGC 
-|	| *Goeritz matrices and the Jones polynomial* | chalk | UGA, GSS
-|	| *On Agol's proof that ribbon concordance is a partial order* | chalk | UGA, GSTS
-| **2022** | *HFK: top and next-to-top gradings* | slide | UGA, GSTS     
-|	| *Motivating Heegaard-Floer with the L-space conjecture* | slide | UGA, GSTS	
-| 	| *Spin & spinᶜ* | slide | UGA, GSTS                        
-|      	| *Cutting out knots* | slide | UGA, GSS
-| **2021** 	| *On the analogy between knots and primes* | slide | UGA, GSS
-
-
 
 ## Publications
 
@@ -67,4 +65,5 @@ knots and several infinite families of links are minimal with respect to this pa
 
 Short description of the paper. One or two sentences is usually enough.
 --->
+
 
