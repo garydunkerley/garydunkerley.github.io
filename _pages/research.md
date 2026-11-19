@@ -19,6 +19,7 @@ into algebraic constraints using invariants from the Heegaard Floer homology pac
 ---
 **Twisting and foam inequalities for the upsilon invariant**
 ([arXiv:2611.23521](https://arxiv.org/abs/2611.23521))
+
 _w/ William Ballinger_
 
 We describe two families of bounds on the Ozsváth-Stipsicz-Szabó $$\Upsilon_K$$ invariant, one controlling its behavior under inserting full twists into a knot and one controlling a limited class of foams, or singular cobordisms between knots. Our foam bounds make significant use of Alishahi's generalization of $$\Upsilon$$ to knotted graphs and 
