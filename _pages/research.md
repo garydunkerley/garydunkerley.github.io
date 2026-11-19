@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 ---
-My research focuses on links, spatial graphs, and surfaces in 4-manifolds. 
+My research focuses on links and surfaces in 4-manifolds. 
 I am particularly interested in converting statements about the complexity of a slice surface 
-into algebraic constraints using invariants from the Heegaard Floer homology package.
-
+into algebraic constraints using link homology invariants, such as those coming from Heegaard Floer.
 
 
 ---
@@ -18,9 +17,8 @@ into algebraic constraints using invariants from the Heegaard Floer homology pac
 ## Papers and preprints
 ---
 **Twisting and foam inequalities for the upsilon invariant**
-([arXiv:2611.23521](https://arxiv.org/abs/2611.23521))
-
-_w/ William Ballinger_
+([arXiv:2611.23521](https://arxiv.org/abs/2611.23521)) <br>
+*with William Ballinger*
 
 We describe two families of bounds on the Ozsváth-Stipsicz-Szabó $$\Upsilon_K$$ invariant, one controlling its behavior under inserting full twists into a knot and one controlling a limited class of foams, or singular cobordisms between knots. Our foam bounds make significant use of Alishahi's generalization of $$\Upsilon$$ to knotted graphs and 
 we compute Alishahi's invariant for all theta-graphs lying on the Heegaard torus in the 3-sphere. 
