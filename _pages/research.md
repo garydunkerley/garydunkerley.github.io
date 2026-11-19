@@ -13,7 +13,7 @@ I am particularly interested in using invariants from Heegaard Floer theory to s
 
 
 ## Papers and preprints
----
+
 **Twisting and foam inequalities for the upsilon invariant**<br>
 *with William Ballinger* ([arXiv:2611.23521](https://arxiv.org/abs/2611.23521))
 
@@ -35,7 +35,6 @@ knots and several infinite families of links are minimal with respect to this pa
 
 
 ## Talks
----
 
 
 | **2026** | *The upsilon invariant and generalizations of Batson's surfaces* | UGA; Michigan State University;  University of Michigan 
