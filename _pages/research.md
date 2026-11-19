@@ -16,7 +16,7 @@ into algebraic constraints using link homology invariants, such as those coming 
 
 ## Papers and preprints
 ---
-**Twisting and foam inequalities for the upsilon invariant**
+**Twisting and foam inequalities for the upsilon invariant**<br>
 ([arXiv:2611.23521](https://arxiv.org/abs/2611.23521)) <br>
 *with William Ballinger*
 
@@ -25,7 +25,7 @@ we compute Alishahi's invariant for all theta-graphs lying on the Heegaard torus
 We also relate the evaluations of $$\Upsilon$$ for torus theta-graphs to a distinguished family of properly embedded 2-complexes in the 4-ball sharing many properties with Batson's nonorientable surfaces.
 
 ---
-**A ribbon partial order for links and minimality detection via Heegaard Floer** 
+**A ribbon partial order for links and minimality detection via Heegaard Floer**<br> 
 ([arXiv:2606.20802](https://arxiv.org/abs/2606.20802), Submitted)
 
 We prove that ribbon concordance induces a partial order on links in the 3-sphere,
