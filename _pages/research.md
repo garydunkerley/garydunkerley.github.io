@@ -17,11 +17,9 @@ into algebraic constraints using link homology invariants, such as those coming 
 ## Papers and preprints
 ---
 **Twisting and foam inequalities for the upsilon invariant**<br>
-([arXiv:2611.23521](https://arxiv.org/abs/2611.23521)) <br>
-*with William Ballinger*
+*with William Ballinger* ([arXiv:2611.23521](https://arxiv.org/abs/2611.23521))
 
-We describe two families of bounds on the Ozsváth-Stipsicz-Szabó $$\Upsilon_K$$ invariant, one controlling its behavior under inserting full twists into a knot and one controlling a limited class of foams, or singular cobordisms between knots. Our foam bounds make significant use of Alishahi's generalization of $$\Upsilon$$ to knotted graphs and 
-we compute Alishahi's invariant for all theta-graphs lying on the Heegaard torus in the 3-sphere. 
+We describe two families of bounds on the Ozsváth-Stipsicz-Szabó $$\Upsilon_K$$ invariant, one controlling its behavior under inserting full twists into a knot and one controlling a limited class of foams, or singular cobordisms between knots. Our foam bounds make significant use of Alishahi's generalization of $$\Upsilon$$ to knotted graphs; we compute Alishahi's invariant for all theta-graphs lying on the Heegaard torus in the 3-sphere. 
 We also relate the evaluations of $$\Upsilon$$ for torus theta-graphs to a distinguished family of properly embedded 2-complexes in the 4-ball sharing many properties with Batson's nonorientable surfaces.
 
 ---
